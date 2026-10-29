@@ -1,0 +1,1042 @@
+{
+  "research\\vendor\\layout-classic-0DHAQysC.js": {
+    "sha256": "7edaa333a9272feebc8406c33ea07f43cb8051c8b30f7eda8693e9071142638d",
+    "profiles": [
+      {
+        "symbol": "dU",
+        "name": "AK820MAX",
+        "pid_hex": "8033",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "yU",
+        "name": "AK820MAX",
+        "pid_hex": "8044",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "VU",
+        "name": "AK820MAX",
+        "pid_hex": "8070",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "qU",
+        "name": "AK820MAX",
+        "pid_hex": "809B",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "YU",
+        "name": "AK820MAX",
+        "pid_hex": "80A0",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "$U",
+        "name": "AK820MAX",
+        "pid_hex": "80B0",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": {
+          "version": 1,
+          "maxColOffset": 0,
+          "keyOffset": [
+            {
+              "name": "Z",
+              "value": 65,
+              "offsetX": 1
+            },
+            {
+              "name": "Spacebar",
+              "value": 83,
+              "offsetX": 3
+            },
+            {
+              "name": "R-Alt",
+              "value": 84,
+              "offsetX": 3
+            }
+          ]
+        },
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "rW",
+        "name": "AK820MAX",
+        "pid_hex": "80B1",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": {
+          "version": 2,
+          "maxColOffset": 0,
+          "keyOffset": [
+            {
+              "name": "F1",
+              "value": 1,
+              "offsetX": 1
+            },
+            {
+              "name": "Z",
+              "value": 65,
+              "offsetX": 1
+            },
+            {
+              "name": "Spacebar",
+              "value": 83,
+              "offsetX": 3
+            },
+            {
+              "name": "R-Alt",
+              "value": 84,
+              "offsetX": 2
+            }
+          ]
+        },
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": {
+          "isShowFn": true,
+          "isShowNormalFuncKeys": true,
+          "fnFuncIds": [],
+          "fnDisabledKeyIds": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      },
+      {
+        "symbol": "pW",
+        "name": "AK820 MAX Lightles",
+        "pid_hex": "80B9",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "qG",
+        "name": "AJAZZ AK820MAX",
+        "pid_hex": "FEFC",
+        "connection": "2.4G",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "sK",
+        "name": "AJAZZ AK820MAX",
+        "pid_hex": "FEFD",
+        "connection": "2.4G",
+        "routes": [
+          "customKeys",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "UK",
+        "name": "AJAZZ AK820MAX",
+        "pid_hex": "FEFE",
+        "connection": "2.4G",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      }
+    ]
+  },
+  "research\\vendor\\revision-hunt\\ajazz-ui-artifact-260522-1029\\layout-default-m1PKe3cP.js": {
+    "sha256": "420cf78ac7eee33753e7edacb1201c103441e922b1a66246a82fa1ea3ec0e2bc",
+    "profiles": [
+      {
+        "symbol": "pn",
+        "name": "AK820MAX",
+        "pid_hex": "8033",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "xn",
+        "name": "AK820MAX",
+        "pid_hex": "8044",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "Jn",
+        "name": "AK820MAX",
+        "pid_hex": "8070",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "sm",
+        "name": "AK820MAX",
+        "pid_hex": "809B",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "tm",
+        "name": "AK820MAX",
+        "pid_hex": "80A0",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "ym",
+        "name": "AK820MAX",
+        "pid_hex": "80B0",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": {
+          "version": 1,
+          "maxColOffset": 0,
+          "keyOffset": [
+            {
+              "name": "Z",
+              "value": 65,
+              "offsetX": 1
+            },
+            {
+              "name": "Spacebar",
+              "value": 83,
+              "offsetX": 3
+            },
+            {
+              "name": "R-Alt",
+              "value": 84,
+              "offsetX": 3
+            }
+          ]
+        },
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "rm",
+        "name": "AK820MAX",
+        "pid_hex": "80B1",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": {
+          "version": 2,
+          "maxColOffset": 0,
+          "keyOffset": [
+            {
+              "name": "Z",
+              "value": 65,
+              "offsetX": 1
+            },
+            {
+              "name": "Spacebar",
+              "value": 83,
+              "offsetX": 3
+            },
+            {
+              "name": "R-Alt",
+              "value": 84,
+              "offsetX": 2
+            }
+          ]
+        },
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "wm",
+        "name": "AK820 MAX Lightles",
+        "pid_hex": "80B9",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "yy",
+        "name": "AJAZZ AK820MAX",
+        "pid_hex": "FEFC",
+        "connection": "2.4G",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "wy",
+        "name": "AJAZZ AK820MAX",
+        "pid_hex": "FEFD",
+        "connection": "2.4G",
+        "routes": [
+          "customKeys",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "tc",
+        "name": "AJAZZ AK820MAX",
+        "pid_hex": "FEFE",
+        "connection": "2.4G",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      }
+    ]
+  },
+  "research\\vendor\\revision-hunt\\ajazz-ui-artifact-260604-0728\\layout-default-CyiI7Opn.js": {
+    "sha256": "1049602e0df4ecd1ac7e654f500adbbc38fb9c9b16aa2d81c376d13ead55ff7b",
+    "profiles": [
+      {
+        "symbol": "wn",
+        "name": "AK820MAX",
+        "pid_hex": "8033",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "Dn",
+        "name": "AK820MAX",
+        "pid_hex": "8044",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "qn",
+        "name": "AK820MAX",
+        "pid_hex": "8070",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "om",
+        "name": "AK820MAX",
+        "pid_hex": "809B",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "nm",
+        "name": "AK820MAX",
+        "pid_hex": "80A0",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "um",
+        "name": "AK820MAX",
+        "pid_hex": "80B0",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": {
+          "version": 1,
+          "maxColOffset": 0,
+          "keyOffset": [
+            {
+              "name": "Z",
+              "value": 65,
+              "offsetX": 1
+            },
+            {
+              "name": "Spacebar",
+              "value": 83,
+              "offsetX": 3
+            },
+            {
+              "name": "R-Alt",
+              "value": 84,
+              "offsetX": 3
+            }
+          ]
+        },
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "km",
+        "name": "AK820MAX",
+        "pid_hex": "80B1",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": {
+          "version": 2,
+          "maxColOffset": 0,
+          "keyOffset": [
+            {
+              "name": "Z",
+              "value": 65,
+              "offsetX": 1
+            },
+            {
+              "name": "Spacebar",
+              "value": 83,
+              "offsetX": 3
+            },
+            {
+              "name": "R-Alt",
+              "value": 84,
+              "offsetX": 2
+            }
+          ]
+        },
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "bm",
+        "name": "AK820 MAX Lightles",
+        "pid_hex": "80B9",
+        "connection": "USB",
+        "routes": [
+          "customKeys",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "ky",
+        "name": "AJAZZ AK820MAX",
+        "pid_hex": "FEFC",
+        "connection": "2.4G",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "xy",
+        "name": "AJAZZ AK820MAX",
+        "pid_hex": "FEFD",
+        "connection": "2.4G",
+        "routes": [
+          "customKeys",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      },
+      {
+        "symbol": "uc",
+        "name": "AJAZZ AK820MAX",
+        "pid_hex": "FEFE",
+        "connection": "2.4G",
+        "routes": [
+          "customKeys",
+          "lighting",
+          "macro",
+          "performance",
+          "advancedKeys",
+          "settings"
+        ],
+        "keys": 82,
+        "lighting_config": null,
+        "music_config": null,
+        "advanced_keys_config": {
+          "advancedKeysList": [
+            "RS",
+            "SOCD",
+            "DKS",
+            "MT",
+            "TGL"
+          ]
+        },
+        "custom_keys_config": null
+      }
+    ]
+  }
+}

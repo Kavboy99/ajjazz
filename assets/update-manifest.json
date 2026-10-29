@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "target": "Dock",
+      "title": "APEX Dock",
+      "version": "OLED UI4 \u00b7 b634c6a1d417",
+      "executable": "ry_upgrade.exe",
+      "files": {
+        "ry_upgrade.exe": "4ee530e50826b59ff4599e49e6fe37116f9c686c1931f590074f38d467c1cf33",
+        "resources/support_config.json": "efcb72139b140225d1114d96995e4a3e2f7e58c59f9651b64dc988c52e5d74b2",
+        "resources/tool_config.json": "345627f66b86db7c1a7fc45a75a8f6bbd3454b8219c0bfa62369110996af245b",
+        "resources/x1": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "resources/x2": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "resources/x3": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "resources/x4": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "resources/x5": "4207bf17bfc9d9140a5699b1305efb43da6867e1d50633182e1fd267e3cdbab5",
+        "resources/x6": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "resources/x7": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    {
+      "target": "Keyboard",
+      "title": "AK820MAX ULTRA",
+      "version": "AJKS \u00b7 fd469e3144ab533c",
+      "executable": "AK820MAX-AJKS-v1-CANDIDATE.exe",
+      "files": {
+        "AK820MAX-AJKS-v1-CANDIDATE.exe": "3d7a22db339974e08da4b044c443d7f5637cc6009c83ab1d1aebf25b6c5ba3f1"
+      }
+    },
+    {
+      "target": "Mouse",
+      "title": "AJ159 APEX",
+      "version": "AJAZZ \u00b7 3.02",
+      "executable": "ry_upgrade.exe",
+      "files": {
+        "ry_upgrade.exe": "4ee530e50826b59ff4599e49e6fe37116f9c686c1931f590074f38d467c1cf33",
+        "resources/support_config.json": "a389d6362901667249c7ded7be7c93ae02bfb71bf721e2c8f788863a588f780e",
+        "resources/tool_config.json": "268e86dd0e3ed30e6a5f7f93e56ecd7acc89b41e74b2cf94e5d047e13f641862",
+        "resources/x1": "7d562e9d72112d48a8b04f9874cf659175e0091b0c375d469d54bc4d95fe4f1a",
+        "resources/x2": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "resources/x3": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "resources/x4": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "resources/x5": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "resources/x6": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "resources/x7": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    }
+  ],
+  "sensor_installer_sha256": "a3a46226c5e2824f4cdd42be0eecbabfc672c86f7889710f5ab1e6ad385b47a0",
+  "keyboard_image_offset": 1813068,
+  "keyboard_image_bytes": 516096,
+  "keyboard_checksum_offset": 2456232
+}

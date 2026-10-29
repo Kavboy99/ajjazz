@@ -1,0 +1,106 @@
+{
+  "schema": 1,
+  "name": "Магнитное поле",
+  "duration": 12,
+  "fps": 15,
+  "brightness": 0.92,
+  "layers": [
+    {
+      "name": "Solid",
+      "enabled": true,
+      "effect": "Solid",
+      "blend": "Replace",
+      "keys": [],
+      "colors": [
+        [
+          3,
+          6,
+          14
+        ],
+        [
+          3,
+          6,
+          14
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Orbit",
+      "enabled": true,
+      "effect": "Orbit",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          0,
+          15,
+          30
+        ],
+        [
+          20,
+          160,
+          160
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0.31,
+      "scale": 1.5,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Visor",
+      "enabled": true,
+      "effect": "Visor",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          155,
+          240,
+          225
+        ]
+      ],
+      "opacity": 0.65,
+      "speed": 0.28,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Wave",
+      "enabled": true,
+      "effect": "Wave",
+      "blend": "Multiply",
+      "keys": [],
+      "colors": [
+        [
+          48,
+          48,
+          48
+        ],
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "opacity": 0.65,
+      "speed": 0.13,
+      "scale": 2.2,
+      "angle": 65,
+      "phase": 0
+    }
+  ],
+  "dock_layers": []
+}

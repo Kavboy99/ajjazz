@@ -1,0 +1,106 @@
+{
+  "schema": 1,
+  "name": "Северный свет",
+  "duration": 12,
+  "fps": 15,
+  "brightness": 0.92,
+  "layers": [
+    {
+      "name": "Solid",
+      "enabled": true,
+      "effect": "Solid",
+      "blend": "Replace",
+      "keys": [],
+      "colors": [
+        [
+          3,
+          6,
+          14
+        ],
+        [
+          3,
+          6,
+          14
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Aurora",
+      "enabled": true,
+      "effect": "Aurora",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          0,
+          22,
+          50
+        ],
+        [
+          20,
+          160,
+          100
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0.19,
+      "scale": 1.3,
+      "angle": 15,
+      "phase": 0
+    },
+    {
+      "name": "Aurora",
+      "enabled": true,
+      "effect": "Aurora",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          20,
+          0,
+          35
+        ],
+        [
+          100,
+          35,
+          155
+        ]
+      ],
+      "opacity": 0.52,
+      "speed": 0.13,
+      "scale": 1.7,
+      "angle": 160,
+      "phase": 0.4
+    },
+    {
+      "name": "Wave",
+      "enabled": true,
+      "effect": "Wave",
+      "blend": "Multiply",
+      "keys": [],
+      "colors": [
+        [
+          48,
+          48,
+          48
+        ],
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "opacity": 0.65,
+      "speed": 0.06,
+      "scale": 1,
+      "angle": 70,
+      "phase": 0
+    }
+  ],
+  "dock_layers": []
+}

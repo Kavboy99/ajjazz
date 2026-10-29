@@ -1,0 +1,236 @@
+{
+  "collected": "2026-10-17",
+  "keyboard_url": "https://ajazz.driveall.cn/",
+  "mouse_install": "AJAZZ Driver (R) 2.1.94",
+  "files": {
+    "lighting-DzPku7KQ.js": {
+      "sha256": "f3fff898e05a0c6e4dbf96d04d15b48d36bda3171965e7610491dcd874d3f4ac",
+      "bytes": 8141
+    },
+    "ak820max-config.json": {
+      "sha256": "5c419b4ae93d514ff4abba9a7e4c634ea4a4e0ed9d9250ff4e15dbeb33f0c8d1",
+      "bytes": 12919
+    },
+    "keyboard-index.html": {
+      "sha256": "c981129a86f9192bb3d7d4ee0e4b80c4ad5ed72a1d544dbb19b5435f93b76994",
+      "bytes": 794
+    },
+    "layout-classic-0DHAQysC.js": {
+      "sha256": "7edaa333a9272feebc8406c33ea07f43cb8051c8b30f7eda8693e9071142638d",
+      "bytes": 3299499
+    },
+    "main-COIgEy1o.js": {
+      "sha256": "f088df2aff7eaaaf1e97cd3e9d97c8dfa2902f527b064232fe7ac49b4a1ebe12",
+      "bytes": 2040
+    },
+    "mouse-main.js": {
+      "sha256": "9cad59f6378a747b38df78f65621549e80cc06fd3efccd0af1de91549e3a490a",
+      "bytes": 870970
+    },
+    "mouse-package.json": {
+      "sha256": "0bbbe178c448f20e499b52bc24b0166fb609eb6bd68e52b88046458eb6e93fe4",
+      "bytes": 957
+    },
+    "mouse-renderer.js": {
+      "sha256": "8b44162b7f8c2d6640b7ec38640b5441b5b48b63175d2996fdce3130e5c4bb01",
+      "bytes": 17607509
+    },
+    "rolldown-runtime-Dd_uD5pT.js": {
+      "sha256": "c5f0356f5d0918a3137e4e811fd18950efe8ac8f6bf84d1d4da7811c477a24d8",
+      "bytes": 1106
+    },
+    "vendor-DAj2VKXs.js": {
+      "sha256": "fab396b2956963a93671478656878b43271493a3f41bb08d201c001715aee5a5",
+      "bytes": 297912
+    },
+    "qmk-index.js": {
+      "sha256": "5b6578c393265e25ec3fba75c6a38cc98fabb3b2721c31821496a0a34ecf9de1",
+      "bytes": 3579996
+    },
+    "qmk-index.html": {
+      "sha256": "6296707390df643f93a2760bccc0734717bdf4c49a25cdcd14b43034e0b095f1",
+      "bytes": 698
+    },
+    "Music-v2.exe": {
+      "sha256": "1216aa4818f5054f16b523247117dcff6cb377254cb495781a8ed4c09b1ee0fd",
+      "bytes": 7396984
+    },
+    "music-extracted/app/MusicPlug.exe": {
+      "sha256": "54d5b1875efc39d9b5d17fb2598f0c07852ee8f51bb0dd825d586b346df6f9b9",
+      "bytes": 389120
+    },
+    "revision-hunt/illumipc/app.js": {
+      "sha256": "d84b607065acc8ca65f714fa1da427ae97ae2871d723529e5116dfdaabd1195a",
+      "bytes": 1788630
+    },
+    "revision-hunt/illumipc/deviceConfig.min.js": {
+      "sha256": "17c41733900a2be403811b027996dacc1356ee72d04a8aa5aa28c30ba754f6c9",
+      "bytes": 14390
+    },
+    "revision-hunt/illumipc/index.html": {
+      "sha256": "649c8030aafce5cfe5548cefd54b9bb6b302a016a29bae2a28b4ed7c72395cb5",
+      "bytes": 6923
+    },
+    "revision-hunt/illumipc/v1.html": {
+      "sha256": "ce16b0456316770707a7ff3924989bb962241d65e04ec35c13bc540209e33900",
+      "bytes": 96868
+    },
+    "revision-hunt/illumipc/v2.html": {
+      "sha256": "bc0d06270f8f8e9f70242607bec316fe56fb51bf6eb49a74db3a9a73a220b892",
+      "bytes": 2358
+    },
+    "revision-hunt/illumipc/wmIndex.min.js": {
+      "sha256": "3b444d94a11c3514a36a0d0345e7879a4531f2a5174c63997f7c3b2e0f020459",
+      "bytes": 654132
+    }
+  },
+  "mouse_online_url": "https://qmk.top/",
+  "keyboard_music_url": "https://config.driveall.cn/music/v2/Music.exe",
+  "keyboard_source_rechecked": "2026-10-17: live HTML and bundle byte-identical",
+  "previous_lighting_lab": {
+    "path": "C:\\Users\\pavel\\Documents\\ChatGPT\\мышь\\app.js",
+    "sha256": "5937f0b9f054d04a841c0a54e422b74ce93b84f034023ddc35c1d339a1a0d658",
+    "animation": "mode128 via 0x23, frames via 0x24"
+  },
+  "keyboard_animation_memory_analysis": {
+    "date": "2026-10-17",
+    "source_bundle_sha256": "7edaa333a9272feebc8406c33ea07f43cb8051c8b30f7eda8693e9071142638d",
+    "source": "OZ setGifLighting 0x42; getDeviceInfo bytes22..27; YU/qG have no isShowGifEffect",
+    "live_evidence": "research/local/keyboard-capabilities-07.json",
+    "writes_41_42_4f_performed": false
+  },
+  "keyboard_revision_research": {
+    "date": "2026-10-17",
+    "report": "docs/REVISION-RESEARCH.md",
+    "audit": "research/local/keyboard-revision-audit.json",
+    "system_get": "research/local/keyboard-system-query.json",
+    "profiles_compared": 33,
+    "firmware_writes_performed": false,
+    "image_compatible_with_80a0_obtained": false,
+    "artifacts": {
+      "sn_isp_lib_bg.wasm": {
+        "bytes": 80442,
+        "sha256": "8816f7c9a112265943f0137d1d54b4c9fc13d87850803918d5e53a9569aacba6"
+      },
+      "AK820MAX-trimode-V113.zip": {
+        "bytes": 14136790,
+        "sha256": "4af7c73aa2d8cd5af408c3352b052dc68d4b9d08f4add25b11b6f10cec749453"
+      },
+      "ak820-recovery-b.exe": {
+        "bytes": 2453504,
+        "sha256": "5a26129658151e85a9699b871b93fdacdd72aebf1f215153174f19de58fe8e11"
+      },
+      "ak820-recovery-b.exe.zip-SN34F280_User.hex": {
+        "bytes": 251640,
+        "sha256": "97f319befafc2be1c7388a1ed3ecaca01f74dbe44c8f674041087ee9ea96772a"
+      },
+      "SONIX_Keyboard_Controller_2.js": {
+        "bytes": 14958,
+        "sha256": "b0c92cc5f8b70e1c1d5db4d2860b7d8537b3d347ebd691ab6a9ed74d05f7e2a7"
+      },
+      "wired-driver-2.06.01.zip": {
+        "bytes": 17983320,
+        "sha256": "6a20f82e7b0c850a0eff9c5de78899a875d9466cbe9882d458a63c24803a6de6"
+      },
+      "wired-driver-2.06.01.zip-0.exe": {
+        "bytes": 18106793,
+        "sha256": "d40fdeddce9d7f95c377578304cc9946da568004d764e39e8757a601c291cdd6"
+      },
+      "wired-driver-2.06.01/app/AK820MAX.exe": {
+        "bytes": 9444352,
+        "sha256": "213293d72fad350be7875c37e74fcfb1133f14ec95d28e9e192442cd6bee70b4"
+      },
+      "wired-driver-2.06.01-qt/index.json": {
+        "bytes": 100742,
+        "sha256": "493ada45d632059c80a9bda298e7489dd1ebf11192c2b98bfa42103e73e4c63a"
+      },
+      "official-ak820-trimode-2.1.77.zip": {
+        "bytes": 70227274,
+        "sha256": "911f6daba64b99de5594e5d90a793fadce101dade8cb5c0baf3da916af5c372c"
+      },
+      "official-ak820-trimode-2.1.77-1.exe": {
+        "bytes": 70301912,
+        "sha256": "571a6749cfaf02533d9c189da60d0a8679805a1a1a8d52efcb7c01b932543c78"
+      },
+      "official-ak820-trimode-2.1.77-payload-index.json": {
+        "bytes": 11403,
+        "sha256": "55f3084afeb4434852b5f275fa84b989b3930046cf01e6164baf09667166905c"
+      }
+    },
+    "product_label": {
+      "serial_prefix": "SGAK820ULTRA",
+      "ean": "6976412985287",
+      "last_six": "985287"
+    }
+  },
+  "keyboard_08_findings": {
+    "set_custom_mode": 128,
+    "get_custom_mode": 20,
+    "usb_control_routing_fixed": true,
+    "advanced_types": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "hardware_proof": [
+      "keyboard-usb-custom-fix-proof.json",
+      "keyboard-usb-roundtrip-08-proof.json",
+      "keyboard-advanced-usb-08-proof.json"
+    ]
+  },
+  "keyboard_09_findings": {
+    "dks_usb_roundtrip": "research/local/keyboard-dks-usb-09-proof.json",
+    "vendor_types": {
+      "dks": 8,
+      "mt": 9,
+      "tgl": 10,
+      "socd": 11,
+      "rs": 12
+    },
+    "firmware_writes": false
+  },
+  "keyboard_011_findings": {
+    "native_effect_apply_seconds": 0.2784792,
+    "old_native_effect_apply_seconds": 1.3152542,
+    "custom_frame_apply_with_readback_seconds": 1.136040299985325,
+    "native_color_get_default_fallback": {
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "rainbow": true
+    },
+    "native_red_gui_physically_confirmed_by_user": true,
+    "macro_bank_and_three_repeat_modes_roundtrip": "research/local/keyboard-macros-radio-010-proof.json",
+    "nine_cb_mouse_roundtrips": "research/local/keyboard-shortcuts-010-proof.json",
+    "rust_tests": 82,
+    "firmware_writes": false,
+    "onboard_custom_animation_implemented": false,
+    "ultra_download_result": "HTML browser verification page, not RAR"
+  },
+  "box_identity_012": {
+    "factory_model": "AK820MAX ULTRA",
+    "switch_label": "Soldier King Magnetic Axis-White",
+    "serial_prefix": "SGAK820MAXULTRA",
+    "factory_ean": "6976412985287",
+    "importer_sku": "XY-MP6-AK820MAX-ULTRA",
+    "importer_ean": "7930169581016",
+    "generic_box_model": "AK820MAX PLUS",
+    "fcc_id": "2AY3H-AK820PRO",
+    "firmware_compatibility_established": false
+  },
+  "firmware_lighting_re": {
+    "report": "docs/FIRMWARE-LIGHTING-RE.md",
+    "candidate_image_identity": "0C45:8033 / 1.04 / 0166:0000",
+    "target_image_obtained": false,
+    "init_dispatch_cases": 25,
+    "tick_dispatch_cases": 31,
+    "emulated_wave_steps_matching_reference": 192,
+    "connected_site_update_json_error_confirmed": true,
+    "firmware_writes": false,
+    "new_device_algorithms_implemented": false,
+    "acquisition_followup": "research/local/firmware-usb-followup-20261018.json"
+  }
+}

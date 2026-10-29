@@ -1,0 +1,128 @@
+{
+  "stock_sha256": "58db8a73ea8be7b8f730d67177f3ad78ec1b28b2b73ac15861e67963a1b116ff",
+  "candidate_sha256": "8b3d2d61ebfde82efa9791a35084b045f07bc1c256e84b504b276bdd0e03179e",
+  "candidate_bytes": 516096,
+  "extension_bytes": 5987,
+  "build_id": "fd469e3144ab533c",
+  "symbols": {
+    "OUTLINED_FUNCTION_0": "0x213ce",
+    "OUTLINED_FUNCTION_1": "0x213dc",
+    "OUTLINED_FUNCTION_2": "0x213e6",
+    "action": "0x201c8",
+    "aj_build_id": "0x2175b",
+    "aj_key_hook": "0x202e0",
+    "aj_lighting": "0x202fc",
+    "aj_observe": "0x20288",
+    "aj_press": "0x2008c",
+    "aj_rotation": "0x20000",
+    "aj_usb": "0x20c68",
+    "battery_order": "0x21403",
+    "battery_overlay": "0x20b30",
+    "consumer": "0x212f0",
+    "copy": "0x21120",
+    "crc": "0x210b6",
+    "init": "0x20140",
+    "is_page": "0x21194",
+    "key_to_led": "0x21463",
+    "led_input": "0x214e1",
+    "load_scene": "0x21130",
+    "newest": "0x210e4",
+    "noise": "0x21344",
+    "pos": "0x215e1",
+    "store": "0x21364",
+    "top_row": "0x21455",
+    "zero": "0x210a8"
+  },
+  "patches": [
+    {
+      "address": "0x1051c",
+      "before": "f7f7f8f9",
+      "after": "0ff0eefe",
+      "symbol": "aj_lighting"
+    },
+    {
+      "address": "0x10530",
+      "before": "fef7aefa",
+      "after": "10f09afb",
+      "symbol": "aj_usb"
+    },
+    {
+      "address": "0x57f4",
+      "before": "0cf0c0fc",
+      "after": "1af004fc",
+      "symbol": "aj_rotation"
+    },
+    {
+      "address": "0x10118",
+      "before": "03f03cbe",
+      "after": "0ff0b8bf",
+      "symbol": "aj_press"
+    },
+    {
+      "address": "0x1013c",
+      "before": "03f02abe",
+      "after": "0ff0a6bf",
+      "symbol": "aj_press"
+    },
+    {
+      "address": "0x13d94",
+      "before": "2de9f041",
+      "after": "0cf0a4ba",
+      "symbol": "aj_key_hook"
+    }
+  ],
+  "ram": {
+    "base": "0x20007000",
+    "bytes": 4096,
+    "stock_scatter_end": "0x20006d98"
+  },
+  "flash": {
+    "extension": [
+      "0x20000",
+      "0x24000"
+    ],
+    "scene_banks": [
+      "0x24000",
+      "0x26000"
+    ],
+    "config_banks": [
+      "0x26000",
+      "0x26400"
+    ]
+  },
+  "stock_settings_and_calibration_unchanged": true,
+  "hardware_access": false,
+  "installed": false,
+  "source_sha256": {
+    "keyboard.c": "39a29eec16c30ed23436650db5c539607297a5d76a2bb733987d1a6be52f4e0e",
+    "link.ld": "be797b2b9ca47b908402c5755efc13774d584ba3ed55f305cc72c4f562890b02"
+  },
+  "word_checksum": "52AE",
+  "seed_state": "research\\local\\encoder-battery-20261024\\keyboard-coldboot-before.json",
+  "all_82_leds_mapped": true,
+  "clock": {
+    "source": "OEM HAL SysTick milliseconds at20000238",
+    "logical_frame_ms": 20,
+    "main_loop_frequency_independent": true
+  },
+  "color_transfer": {
+    "encoding": "sRGB to linear light, rounded6-bit stock PWM",
+    "max_pwm": 63,
+    "wire_order": "original OEM serializer, unchanged"
+  },
+  "features": {
+    "effects": 22,
+    "battery_source": "OEM live percent at2000012e, native cf90 and GET_INFO radio",
+    "battery_config_version": 1,
+    "battery_enabled_during_migration": false,
+    "hold_ms_range": [
+      1000,
+      5000
+    ],
+    "release_ms_range": [
+      1000,
+      10000
+    ],
+    "overlay_after_original_pwm": true
+  }
+}

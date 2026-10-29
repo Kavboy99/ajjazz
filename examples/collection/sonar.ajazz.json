@@ -1,0 +1,106 @@
+{
+  "schema": 1,
+  "name": "Сонар",
+  "duration": 12,
+  "fps": 15,
+  "brightness": 0.92,
+  "layers": [
+    {
+      "name": "Solid",
+      "enabled": true,
+      "effect": "Solid",
+      "blend": "Replace",
+      "keys": [],
+      "colors": [
+        [
+          3,
+          6,
+          14
+        ],
+        [
+          3,
+          6,
+          14
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Nebula",
+      "enabled": true,
+      "effect": "Nebula",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          0,
+          5,
+          12
+        ],
+        [
+          0,
+          25,
+          35
+        ]
+      ],
+      "opacity": 0.6,
+      "speed": 0.1,
+      "scale": 1.2,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Ripple",
+      "enabled": true,
+      "effect": "Ripple",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          25,
+          220,
+          175
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0.4,
+      "scale": 1.15,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Reactive",
+      "enabled": true,
+      "effect": "Reactive",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          150,
+          235,
+          215
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0.3,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0
+    }
+  ],
+  "dock_layers": []
+}

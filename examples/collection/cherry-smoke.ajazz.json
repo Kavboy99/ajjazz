@@ -1,0 +1,106 @@
+{
+  "schema": 1,
+  "name": "Вишнёвый дым",
+  "duration": 12,
+  "fps": 15,
+  "brightness": 0.92,
+  "layers": [
+    {
+      "name": "Solid",
+      "enabled": true,
+      "effect": "Solid",
+      "blend": "Replace",
+      "keys": [],
+      "colors": [
+        [
+          3,
+          6,
+          14
+        ],
+        [
+          3,
+          6,
+          14
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Nebula",
+      "enabled": true,
+      "effect": "Nebula",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          20,
+          0,
+          15
+        ],
+        [
+          170,
+          28,
+          80
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0.17,
+      "scale": 1.7,
+      "angle": 20,
+      "phase": 0
+    },
+    {
+      "name": "Nebula",
+      "enabled": true,
+      "effect": "Nebula",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          5,
+          0,
+          25
+        ],
+        [
+          65,
+          25,
+          135
+        ]
+      ],
+      "opacity": 0.6,
+      "speed": 0.12,
+      "scale": 1.1,
+      "angle": 145,
+      "phase": 0.4
+    },
+    {
+      "name": "Wave",
+      "enabled": true,
+      "effect": "Wave",
+      "blend": "Multiply",
+      "keys": [],
+      "colors": [
+        [
+          48,
+          48,
+          48
+        ],
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "opacity": 0.65,
+      "speed": 0.08,
+      "scale": 1.4,
+      "angle": 90,
+      "phase": 0
+    }
+  ],
+  "dock_layers": []
+}

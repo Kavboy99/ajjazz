@@ -1,0 +1,10 @@
+/target/
+/dist/
+/.tools/
+/research/vendor/
+/research/local/
+/.venv/
+__pycache__/
+*.log
+/firmware/aj159-screen/build/
+/artifacts/

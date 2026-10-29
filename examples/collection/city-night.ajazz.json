@@ -1,0 +1,169 @@
+{
+  "schema": 1,
+  "name": "Ночной город",
+  "duration": 12,
+  "fps": 15,
+  "brightness": 0.92,
+  "layers": [
+    {
+      "name": "Solid",
+      "enabled": true,
+      "effect": "Solid",
+      "blend": "Replace",
+      "keys": [],
+      "colors": [
+        [
+          3,
+          6,
+          14
+        ],
+        [
+          3,
+          6,
+          14
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Fireflies",
+      "enabled": true,
+      "effect": "Fireflies",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          0,
+          0,
+          5
+        ],
+        [
+          25,
+          70,
+          160
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0.26,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Fireflies",
+      "enabled": true,
+      "effect": "Fireflies",
+      "blend": "Add",
+      "keys": [
+        0,
+        3,
+        6,
+        11,
+        17,
+        22,
+        25,
+        28,
+        33,
+        36,
+        39,
+        44,
+        50,
+        55,
+        58,
+        66,
+        69,
+        72,
+        80,
+        83,
+        88,
+        91,
+        105
+      ],
+      "colors": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          220,
+          120,
+          45
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0.2,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0.4
+    },
+    {
+      "name": "Comet",
+      "enabled": true,
+      "effect": "Comet",
+      "blend": "Add",
+      "keys": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        87,
+        88,
+        89,
+        90,
+        91,
+        107,
+        108
+      ],
+      "colors": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          50,
+          130,
+          190
+        ]
+      ],
+      "opacity": 0.6,
+      "speed": 0.28,
+      "scale": 1.2,
+      "angle": 0,
+      "phase": 0
+    }
+  ],
+  "dock_layers": []
+}

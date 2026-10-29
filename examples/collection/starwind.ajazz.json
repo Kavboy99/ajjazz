@@ -1,0 +1,118 @@
+{
+  "schema": 1,
+  "name": "Звёздный ветер",
+  "duration": 12,
+  "fps": 15,
+  "brightness": 0.92,
+  "layers": [
+    {
+      "name": "Solid",
+      "enabled": true,
+      "effect": "Solid",
+      "blend": "Replace",
+      "keys": [],
+      "colors": [
+        [
+          3,
+          6,
+          14
+        ],
+        [
+          3,
+          6,
+          14
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Fireflies",
+      "enabled": true,
+      "effect": "Fireflies",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          0,
+          3,
+          10
+        ],
+        [
+          85,
+          135,
+          220
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0.26,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Comet",
+      "enabled": true,
+      "effect": "Comet",
+      "blend": "Add",
+      "keys": [
+        2,
+        4,
+        6,
+        9,
+        11,
+        16,
+        18,
+        20,
+        23,
+        25,
+        27,
+        32,
+        34,
+        37,
+        39,
+        41,
+        44,
+        48,
+        51,
+        53,
+        55,
+        58,
+        60,
+        65,
+        67,
+        69,
+        72,
+        74,
+        76,
+        81,
+        83,
+        88,
+        90,
+        104,
+        107
+      ],
+      "colors": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          175,
+          220,
+          255
+        ]
+      ],
+      "opacity": 0.7,
+      "speed": 0.23,
+      "scale": 0.7,
+      "angle": 17,
+      "phase": 0
+    }
+  ],
+  "dock_layers": []
+}

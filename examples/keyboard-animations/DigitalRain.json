@@ -1,0 +1,22 @@
+{
+  "preset": "DigitalRain",
+  "colors": [
+    [
+      0,
+      100,
+      30
+    ],
+    [
+      120,
+      255,
+      155
+    ]
+  ],
+  "speed": 0.2,
+  "scale": 1,
+  "brightness": 0.8,
+  "angle": 0,
+  "reverse": false,
+  "duration": 30,
+  "keys": []
+}

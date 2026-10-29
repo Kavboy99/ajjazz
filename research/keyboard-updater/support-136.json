@@ -1,0 +1,993 @@
+{
+  "schema": 1,
+  "updater_sha256": "edd4914bdd93bc3d557173e554efd40e7b531f5d6275b5bc8c8c6f7f4aa570d4",
+  "machine": "014C",
+  "sections": [
+    {
+      "name": ".text",
+      "rva": 4096,
+      "virtual_size": 1415752,
+      "raw_size": 1416192,
+      "offset": 1024
+    },
+    {
+      "name": ".rdata",
+      "rva": 1421312,
+      "virtual_size": 317998,
+      "raw_size": 318464,
+      "offset": 1417216
+    },
+    {
+      "name": ".data",
+      "rva": 1740800,
+      "virtual_size": 86776,
+      "raw_size": 43008,
+      "offset": 1735680
+    },
+    {
+      "name": ".rsrc",
+      "rva": 1830912,
+      "virtual_size": 678880,
+      "raw_size": 678912,
+      "offset": 1778688
+    }
+  ],
+  "resources": [
+    {
+      "type": 1,
+      "id": 6,
+      "language": 1028,
+      "offset": 1782640,
+      "rva": 1834864,
+      "bytes": 308,
+      "sha256": "946370032ee874d7b229ac7cb89703f59dee1de76607bcc6bd82d8e437cc8074"
+    },
+    {
+      "type": 1,
+      "id": 7,
+      "language": 1033,
+      "offset": 1782948,
+      "rva": 1835172,
+      "bytes": 308,
+      "sha256": "fbeb3be87e80cb8e1d2af3d8140796c1bb80c6c7056f60897088ff9e355c3867"
+    },
+    {
+      "type": 1,
+      "id": 8,
+      "language": 1033,
+      "offset": 1783256,
+      "rva": 1835480,
+      "bytes": 180,
+      "sha256": "f64ccc0582bc7c66af8b40049e485e8e241335261ec95ace909293ba50b2e4a3"
+    },
+    {
+      "type": 1,
+      "id": 9,
+      "language": 1033,
+      "offset": 1783436,
+      "rva": 1835660,
+      "bytes": 308,
+      "sha256": "652988945185cf5d604d9b48de66288d82d8ed0acdd134398e90d002d2d9fc72"
+    },
+    {
+      "type": 1,
+      "id": 10,
+      "language": 1033,
+      "offset": 1783744,
+      "rva": 1835968,
+      "bytes": 308,
+      "sha256": "0b0e16c38a3d5a85566e67b1d9a7e720e4dee27e163b06099d3d7dfa5dbed9ee"
+    },
+    {
+      "type": 1,
+      "id": 11,
+      "language": 1033,
+      "offset": 1784052,
+      "rva": 1836276,
+      "bytes": 308,
+      "sha256": "368f9cb089d206a8b61251f0c85eeda97ee08a56b33be8579246e964d3af6169"
+    },
+    {
+      "type": 1,
+      "id": 12,
+      "language": 1033,
+      "offset": 1784360,
+      "rva": 1836584,
+      "bytes": 308,
+      "sha256": "6440c3a38dcfb81d45bc6be31b776fdae116dd7a2933b407b67132f6cfa0e6eb"
+    },
+    {
+      "type": 1,
+      "id": 13,
+      "language": 1033,
+      "offset": 1784668,
+      "rva": 1836892,
+      "bytes": 308,
+      "sha256": "9882a8462ce9de3cc9a5d0ca48c8c4f7ca97f1f846f0c10e6655e33c9734b152"
+    },
+    {
+      "type": 1,
+      "id": 14,
+      "language": 1033,
+      "offset": 1784976,
+      "rva": 1837200,
+      "bytes": 308,
+      "sha256": "322e92d75b3fec9e16b81466f4cf111d298b80812d5b238f4ee032c025a02050"
+    },
+    {
+      "type": 1,
+      "id": 15,
+      "language": 1033,
+      "offset": 1785284,
+      "rva": 1837508,
+      "bytes": 308,
+      "sha256": "8db6df648274a0fc3d28430367216e1c17c364ca613066cbb0e133637e92ba62"
+    },
+    {
+      "type": 1,
+      "id": 16,
+      "language": 1033,
+      "offset": 1785592,
+      "rva": 1837816,
+      "bytes": 308,
+      "sha256": "f9c81ce9b4176b305c554a15f0ca2b98b11be76c1f13ef22169999aa07e9612f"
+    },
+    {
+      "type": 1,
+      "id": 17,
+      "language": 1033,
+      "offset": 1785900,
+      "rva": 1838124,
+      "bytes": 308,
+      "sha256": "601635482a9b1864ea0c61ce0282c5c9fe1d014aa95dbb4f60770f1c2b6df3da"
+    },
+    {
+      "type": 1,
+      "id": 18,
+      "language": 1033,
+      "offset": 1786208,
+      "rva": 1838432,
+      "bytes": 308,
+      "sha256": "2bf742d2beb4c56dd6eb68347dd8ee28da85bed9e6d165b36c6edb91da01d5d6"
+    },
+    {
+      "type": 1,
+      "id": 19,
+      "language": 1033,
+      "offset": 1786516,
+      "rva": 1838740,
+      "bytes": 308,
+      "sha256": "cfc4ff9e46fbb61f61b68f36adc6593b137233d1cbaa50fe37e5653f0cb20396"
+    },
+    {
+      "type": 1,
+      "id": 20,
+      "language": 1033,
+      "offset": 1786824,
+      "rva": 1839048,
+      "bytes": 308,
+      "sha256": "c4a6e3a7a346baecb09a0c49268eb44f388382a7866a4e912b53d48fa3b34c26"
+    },
+    {
+      "type": 1,
+      "id": 21,
+      "language": 1033,
+      "offset": 1787132,
+      "rva": 1839356,
+      "bytes": 308,
+      "sha256": "f273e554605a89aa0994c9d42bc2569be3db5b19b2900dacb30f3218ed1174a0"
+    },
+    {
+      "type": 1,
+      "id": 22,
+      "language": 1033,
+      "offset": 1787440,
+      "rva": 1839664,
+      "bytes": 308,
+      "sha256": "ebaf4bcc0f0d7ca9a3458ea52520d2dd10811069241940b9b2e79ac1a4c3ca5c"
+    },
+    {
+      "type": 2,
+      "id": 30994,
+      "language": 1033,
+      "offset": 1787748,
+      "rva": 1839972,
+      "bytes": 184,
+      "sha256": "e7c0005285d1ab59732d5f99f77a9bdd6342b01cf44437ebd7a07611a227e272"
+    },
+    {
+      "type": 2,
+      "id": 30996,
+      "language": 1033,
+      "offset": 1787932,
+      "rva": 1840156,
+      "bytes": 324,
+      "sha256": "abdf36bde89a26349f5741c17c235dacea88d441d8662ba16a598dc50c3c4864"
+    },
+    {
+      "type": 3,
+      "id": 1,
+      "language": 1028,
+      "offset": 1788256,
+      "rva": 1840480,
+      "bytes": 4264,
+      "sha256": "736a0b0267852a764c35daca70d260b2e655c347497ad34477ae6679f613e6f3"
+    },
+    {
+      "type": 3,
+      "id": 2,
+      "language": 1028,
+      "offset": 1792520,
+      "rva": 1844744,
+      "bytes": 3240,
+      "sha256": "258b97138830929818fca0f493e1dc2b706cda643acc83e65fc86f962d68a908"
+    },
+    {
+      "type": 3,
+      "id": 3,
+      "language": 1028,
+      "offset": 1795760,
+      "rva": 1847984,
+      "bytes": 3240,
+      "sha256": "c49c80ff71aaf71382c9ab45b754d181d62c8e5c57f8b224103abbb8fc07b4df"
+    },
+    {
+      "type": 3,
+      "id": 4,
+      "language": 1028,
+      "offset": 1799000,
+      "rva": 1851224,
+      "bytes": 1864,
+      "sha256": "1313a1e2c3b3824907940a0032d999717c5911afe1ac565f5417f05427290e55"
+    },
+    {
+      "type": 3,
+      "id": 5,
+      "language": 1028,
+      "offset": 1800864,
+      "rva": 1853088,
+      "bytes": 2216,
+      "sha256": "07257928e142870d1a24ffd4558c24691a5cde8c2385940975500ab3b10b9d68"
+    },
+    {
+      "type": 5,
+      "id": 100,
+      "language": 1033,
+      "offset": 1803080,
+      "rva": 1855304,
+      "bytes": 314,
+      "sha256": "0c95ecdfdfb4731fbc827e52e5ed192365f9708d32515328a2535858d160582c"
+    },
+    {
+      "type": 5,
+      "id": 102,
+      "language": 1033,
+      "offset": 1803396,
+      "rva": 1855620,
+      "bytes": 2058,
+      "sha256": "1fcae31867bd2de9a18b2f105de71f40b59f8d39070c9a8eba1dc3cf9c7a3400"
+    },
+    {
+      "type": 5,
+      "id": 103,
+      "language": 1033,
+      "offset": 1805456,
+      "rva": 1857680,
+      "bytes": 242,
+      "sha256": "0e3793cc1daedc08fbd59205d8000123ab0be27a1ef86fd15bdb6e2677eaa7dc"
+    },
+    {
+      "type": 5,
+      "id": 129,
+      "language": 1028,
+      "offset": 1805700,
+      "rva": 1857924,
+      "bytes": 192,
+      "sha256": "1d0eabf887f0a9c2a29f026ec775adffe7c5da1003818cd42312547e1ccb2fb1"
+    },
+    {
+      "type": 5,
+      "id": 151,
+      "language": 1028,
+      "offset": 1805892,
+      "rva": 1858116,
+      "bytes": 1162,
+      "sha256": "79c0c680af13670f6f0e719ca38aaaa2179685887fa037eaa8c678acb289793a"
+    },
+    {
+      "type": 5,
+      "id": 30721,
+      "language": 1033,
+      "offset": 1807056,
+      "rva": 1859280,
+      "bytes": 232,
+      "sha256": "6e113fd8e9f3156ae68251c6076beb9b59fe29e589d06398e7019802521f69d3"
+    },
+    {
+      "type": 5,
+      "id": 30734,
+      "language": 1033,
+      "offset": 1807288,
+      "rva": 1859512,
+      "bytes": 52,
+      "sha256": "4cf716efaf68e0cb2ec45ec55d291050b5712b05653cae68edbb999f803d2a98"
+    },
+    {
+      "type": 6,
+      "id": 7,
+      "language": 4,
+      "offset": 1807340,
+      "rva": 1859564,
+      "bytes": 170,
+      "sha256": "a67cbf8285a7032b867ce6c7aafd9078e9fe86067f5ea2b202da2a1e927ef9d3"
+    },
+    {
+      "type": 6,
+      "id": 3841,
+      "language": 1033,
+      "offset": 1807512,
+      "rva": 1859736,
+      "bytes": 130,
+      "sha256": "d91dc4e26fd86def5ee907c72f32457bea07d21fa618012245f641d08501548d"
+    },
+    {
+      "type": 6,
+      "id": 3842,
+      "language": 1033,
+      "offset": 1807644,
+      "rva": 1859868,
+      "bytes": 42,
+      "sha256": "05e0d5787611ed4f643733e3e6e62d00f426422b5d3e443ceebac22e9d294bc4"
+    },
+    {
+      "type": 6,
+      "id": 3843,
+      "language": 1033,
+      "offset": 1807688,
+      "rva": 1859912,
+      "bytes": 388,
+      "sha256": "9665348f07508c6c2a568fc90ec4c04736668adc3521e311a4c7659973d92313"
+    },
+    {
+      "type": 6,
+      "id": 3857,
+      "language": 1033,
+      "offset": 1808076,
+      "rva": 1860300,
+      "bytes": 1254,
+      "sha256": "0519d7704cb64bab3aeca7c3b96affd55641099a2a162e88537cb1b8dbfcd540"
+    },
+    {
+      "type": 6,
+      "id": 3858,
+      "language": 1033,
+      "offset": 1809332,
+      "rva": 1861556,
+      "bytes": 612,
+      "sha256": "eaa0b4fe4704e193dd2ed1f8de1cb20e1001034fdb30307ee44aa664966d4ffc"
+    },
+    {
+      "type": 6,
+      "id": 3859,
+      "language": 1033,
+      "offset": 1809944,
+      "rva": 1862168,
+      "bytes": 730,
+      "sha256": "cffcd4956911b3d50eef378cb051e598baba0db48246b07780af03b01c67c64d"
+    },
+    {
+      "type": 6,
+      "id": 3860,
+      "language": 1033,
+      "offset": 1810676,
+      "rva": 1862900,
+      "bytes": 138,
+      "sha256": "35b5abb90316b4017d5531e031cbf15bae6e8dd46f6dd221701693a22a7795be"
+    },
+    {
+      "type": 6,
+      "id": 3865,
+      "language": 1033,
+      "offset": 1810816,
+      "rva": 1863040,
+      "bytes": 172,
+      "sha256": "1b8660b0c53b94f3e029de58e56d08c8097a080244e9dc65d4155a9b603820d8"
+    },
+    {
+      "type": 6,
+      "id": 3866,
+      "language": 1033,
+      "offset": 1810988,
+      "rva": 1863212,
+      "bytes": 222,
+      "sha256": "31bff9afbf08a8869318cd946a1d73a4425afefc5693c6e06671bde1e86de1dc"
+    },
+    {
+      "type": 6,
+      "id": 3867,
+      "language": 1033,
+      "offset": 1811212,
+      "rva": 1863436,
+      "bytes": 1192,
+      "sha256": "2b5551644093e58a4af74928fb744bd735fa2ef5f99824e6918ff9f6a33a3803"
+    },
+    {
+      "type": 6,
+      "id": 3868,
+      "language": 1033,
+      "offset": 1812404,
+      "rva": 1864628,
+      "bytes": 552,
+      "sha256": "e9212b16f2d3292d0b0eb67134a70778ff1b0aede4918831e5bdba3f950db2a7"
+    },
+    {
+      "type": 6,
+      "id": 3869,
+      "language": 1033,
+      "offset": 1812956,
+      "rva": 1865180,
+      "bytes": 44,
+      "sha256": "0714c554acd308b38c3d6319f7e470f76a16d712f696545eacac2bdc725dfb95"
+    },
+    {
+      "type": 6,
+      "id": 3887,
+      "language": 1033,
+      "offset": 1813000,
+      "rva": 1865224,
+      "bytes": 66,
+      "sha256": "1f1b61a7f04edc3691a6c9350132b09929d5bfa1c900f6ff500e55c5ebc63212"
+    },
+    {
+      "type": 10,
+      "id": 4000,
+      "language": 0,
+      "offset": 1813068,
+      "rva": 1865292,
+      "bytes": 516096,
+      "sha256": "58db8a73ea8be7b8f730d67177f3ad78ec1b28b2b73ac15861e67963a1b116ff"
+    },
+    {
+      "type": 10,
+      "id": 4007,
+      "language": 0,
+      "offset": 2329164,
+      "rva": 2381388,
+      "bytes": 16,
+      "sha256": "4d7c635495f41fd7f9b9027bb64142569a1851f984ef405eba77d161969af866"
+    },
+    {
+      "type": 10,
+      "id": 4008,
+      "language": 0,
+      "offset": 2329180,
+      "rva": 2381404,
+      "bytes": 8,
+      "sha256": "658c51a0c693249e48893e7c1cf9b3c14f8fce301d6e73eec071b1ce41a47749"
+    },
+    {
+      "type": 10,
+      "id": 4009,
+      "language": 0,
+      "offset": 2329188,
+      "rva": 2381412,
+      "bytes": 8,
+      "sha256": "6f92672d91219ca50f3fed72c37f256dbee7856071f4eabfc5737121efe92615"
+    },
+    {
+      "type": 10,
+      "id": 4010,
+      "language": 0,
+      "offset": 2329196,
+      "rva": 2381420,
+      "bytes": 16,
+      "sha256": "0a8ddd98864f4f163cd3631aff55a7dc6df8112f21f556d3eaf0d64894bee27e"
+    },
+    {
+      "type": 10,
+      "id": 4011,
+      "language": 0,
+      "offset": 2329212,
+      "rva": 2381436,
+      "bytes": 126957,
+      "sha256": "76813babbc29b8366027a687ebee0ba33fbd5fcc3dd91f3bc6beecf554740464"
+    },
+    {
+      "type": 10,
+      "id": 4012,
+      "language": 0,
+      "offset": 2456172,
+      "rva": 2508396,
+      "bytes": 1,
+      "sha256": "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d"
+    },
+    {
+      "type": 10,
+      "id": 4013,
+      "language": 0,
+      "offset": 2456176,
+      "rva": 2508400,
+      "bytes": 54,
+      "sha256": "6f72d3f8cc39b78b223b7e8ad1ce54a4c0983fca51ac0c77c97d32ce88f08c4a"
+    },
+    {
+      "type": 10,
+      "id": 4014,
+      "language": 0,
+      "offset": 2456232,
+      "rva": 2508456,
+      "bytes": 8,
+      "sha256": "c0afeab6393e558cbf6bacd9c58d920f311a126aaede267b49ec177c4ab6b3a0"
+    },
+    {
+      "type": 10,
+      "id": 4016,
+      "language": 0,
+      "offset": 2456240,
+      "rva": 2508464,
+      "bytes": 34,
+      "sha256": "a7fc94823062dc724ac757e3e5a078b0fd2544e870b9295344dfa296f57bdcb2"
+    },
+    {
+      "type": 12,
+      "id": 155,
+      "language": 1028,
+      "offset": 2456276,
+      "rva": 2508500,
+      "bytes": 20,
+      "sha256": "6e1e7738a1b6373d8829f817915822ef415a1727bb5bb7cfe809e31b3c143ac5"
+    },
+    {
+      "type": 12,
+      "id": 30977,
+      "language": 1033,
+      "offset": 2456296,
+      "rva": 2508520,
+      "bytes": 34,
+      "sha256": "8da86e16c783fd7da06c1b57abcf523939f9df40dee03786cbb00e2bf63d1cd8"
+    },
+    {
+      "type": 12,
+      "id": 30998,
+      "language": 1033,
+      "offset": 2456332,
+      "rva": 2508556,
+      "bytes": 20,
+      "sha256": "ef309b720f166673cad840a88e7636e9161ad91415cc7c176010cebba07757e5"
+    },
+    {
+      "type": 12,
+      "id": 30999,
+      "language": 1033,
+      "offset": 2456352,
+      "rva": 2508576,
+      "bytes": 20,
+      "sha256": "9c17b4621412d6ded24a76aed74d4425ae61f86b6d4092ca1e28ca66b7c71399"
+    },
+    {
+      "type": 12,
+      "id": 31000,
+      "language": 1033,
+      "offset": 2456372,
+      "rva": 2508596,
+      "bytes": 20,
+      "sha256": "a2f0549cca7170ae03ba042464efe62365fba38c20049e439871c9e5ce0f914f"
+    },
+    {
+      "type": 12,
+      "id": 31001,
+      "language": 1033,
+      "offset": 2456392,
+      "rva": 2508616,
+      "bytes": 20,
+      "sha256": "8a495f17bc472bfc5e6923d9efa687848fac027ad60694f9c3f10a4f7b194924"
+    },
+    {
+      "type": 12,
+      "id": 31002,
+      "language": 1033,
+      "offset": 2456412,
+      "rva": 2508636,
+      "bytes": 20,
+      "sha256": "3f02dcac38fffe306e1825846e2bc0458ee712696310d051e3a69ebda8330cc3"
+    },
+    {
+      "type": 12,
+      "id": 31003,
+      "language": 1033,
+      "offset": 2456432,
+      "rva": 2508656,
+      "bytes": 20,
+      "sha256": "28b8110695851e5280ff55cb78507b03e8b74dd370b8e122179c82b56f7e5f37"
+    },
+    {
+      "type": 12,
+      "id": 31004,
+      "language": 1033,
+      "offset": 2456452,
+      "rva": 2508676,
+      "bytes": 20,
+      "sha256": "12a5b9052dd16bed260343bc4352d436167c991c54497c5af441304646549386"
+    },
+    {
+      "type": 12,
+      "id": 31005,
+      "language": 1033,
+      "offset": 2456472,
+      "rva": 2508696,
+      "bytes": 20,
+      "sha256": "a92f60b25322592e7ddd13d88e4006c097666f4d87c8cb0c21ffdccd53b31d78"
+    },
+    {
+      "type": 12,
+      "id": 31006,
+      "language": 1033,
+      "offset": 2456492,
+      "rva": 2508716,
+      "bytes": 20,
+      "sha256": "4ecc7f2578fd7b137c04f85ffcbd67d6eab0bc8b1df4246cebd2a2aa517f3c60"
+    },
+    {
+      "type": 12,
+      "id": 31007,
+      "language": 1033,
+      "offset": 2456512,
+      "rva": 2508736,
+      "bytes": 20,
+      "sha256": "ee63d4681e7622067fd29005c6cc67b456031eb723c7239f05f1cb097af0ef98"
+    },
+    {
+      "type": 12,
+      "id": 31008,
+      "language": 1033,
+      "offset": 2456532,
+      "rva": 2508756,
+      "bytes": 20,
+      "sha256": "da738753c27f2708bd2257f8cac3385a4ccb0df1341b76acfda07fa980cfb4bd"
+    },
+    {
+      "type": 12,
+      "id": 31009,
+      "language": 1033,
+      "offset": 2456552,
+      "rva": 2508776,
+      "bytes": 20,
+      "sha256": "b328fe22a904a2e7e1341a95dbf00e2fdffc9ab350bc64c5ee348d3007c2b479"
+    },
+    {
+      "type": 12,
+      "id": 31010,
+      "language": 1033,
+      "offset": 2456572,
+      "rva": 2508796,
+      "bytes": 20,
+      "sha256": "8f51832638675f16ec5f251ab59251b3f85d84e5129025d44c45b3191b331c58"
+    },
+    {
+      "type": 12,
+      "id": 31011,
+      "language": 1033,
+      "offset": 2456592,
+      "rva": 2508816,
+      "bytes": 20,
+      "sha256": "6c2ef97bca5cdc6aa6de65b1f1ae8328bcb3494a16025eee870231d991e2cd56"
+    },
+    {
+      "type": 14,
+      "id": 128,
+      "language": 1028,
+      "offset": 2456612,
+      "rva": 2508836,
+      "bytes": 24,
+      "sha256": "16a9e37e7f42c107200810f116e473a17a89b9cd06cb1cbe22d0c3a2d17b64ae"
+    },
+    {
+      "type": 14,
+      "id": 146,
+      "language": 1028,
+      "offset": 2456636,
+      "rva": 2508860,
+      "bytes": 20,
+      "sha256": "08de2c09b848f704fbd5c4c5e392e2621f5c60785d35353b2a4269fc20ea9848"
+    },
+    {
+      "type": 14,
+      "id": 147,
+      "language": 1028,
+      "offset": 2456656,
+      "rva": 2508880,
+      "bytes": 20,
+      "sha256": "dc4d6703cb02352065d368c17c29c2997969323e97ed2e8ba0aac9889417cc24"
+    },
+    {
+      "type": 14,
+      "id": 154,
+      "language": 1028,
+      "offset": 2456676,
+      "rva": 2508900,
+      "bytes": 34,
+      "sha256": "17d7c2320fcb714813b9a5871f2627d6a24cf15c1553ff51356ce11e90b2e0c6"
+    },
+    {
+      "type": 16,
+      "id": 1,
+      "language": 1033,
+      "offset": 2456712,
+      "rva": 2508936,
+      "bytes": 508,
+      "sha256": "23b455d0e42963881a508163bcf748b2d1f6c235a65e6ff46cb490040f6c774d"
+    },
+    {
+      "type": 24,
+      "id": 1,
+      "language": 1033,
+      "offset": 2457220,
+      "rva": 2509444,
+      "bytes": 346,
+      "sha256": "49a60be4b95b6d30da355a0c124af82b35000bce8f24f957d1c09ead47544a1e"
+    }
+  ],
+  "metadata": {
+    "4007": "12345678",
+    "4008": "0C45",
+    "4009": "80A0",
+    "4010": "SN34F280",
+    "4013": "Build time:2025/06/30 09:24",
+    "4014": "67E7",
+    "4016": "SN34F280_User.hex"
+  },
+  "active_image": {
+    "bytes": 516096,
+    "sha256": "58db8a73ea8be7b8f730d67177f3ad78ec1b28b2b73ac15861e67963a1b116ff",
+    "initial_sp": "20006D98",
+    "reset": "00000205",
+    "plausible_vectors": true,
+    "word_sum": "67E7",
+    "tail_16": "0000000000000000000000005555aaaa",
+    "sonix_identity_heuristic": {
+      "offset": 36864,
+      "vid": "0C45",
+      "pid": "80A0",
+      "version_raw": "0136",
+      "manufacturer": "0166",
+      "field_900e": "0000",
+      "compatibility_proven": false
+    }
+  },
+  "hardware_access": false,
+  "vendor_code_executed": false,
+  "advertised_checksum_matches": true,
+  "archive_members": {
+    "Settings/FWFiles/SN34F280_User.hex": {
+      "bytes": 259335,
+      "sha256": "d3ced4db77fb4f6253404f5cfc105e5e2716bd92a6d7a59f1f3052429b4bc2fd"
+    },
+    "Settings/Image/background(1).bmp": {
+      "bytes": 510462,
+      "sha256": "78c143997eab801db27ae1b4e9cd0c4223c4427e2647565f44bc9ca54949a1d2"
+    },
+    "Settings/Image/background.bmp": {
+      "bytes": 510462,
+      "sha256": "d444c39a228aebc90d21b0d30db1c88d46e707bde28e6b15c5321d5ba36b69d6"
+    },
+    "Settings/Image/DeviceInfo.bmp": {
+      "bytes": 13496,
+      "sha256": "c331ccb29c7bf2a5817e1209a90ab1020f5e6fc08936809cb8b6f7f655e176e6"
+    },
+    "Settings/Image/DeviceInfo_mo.bmp": {
+      "bytes": 13496,
+      "sha256": "9fe95bfe94acd1a3fece3ee3a9b2f8a8c73fde65e3c8a260a87cd1e336186b1b"
+    },
+    "Settings/Image/Exit.bmp": {
+      "bytes": 822,
+      "sha256": "b002f6e879c13b598096fb413d2f752902ded8c2c875d17dff15ce6cfb3252ee"
+    },
+    "Settings/Image/Exit_mo.bmp": {
+      "bytes": 822,
+      "sha256": "68d888f8b86e9ac53a23064182466cffd185db5aba9d86f0f38ca5192fe07004"
+    },
+    "Settings/Image/start.bmp": {
+      "bytes": 22992,
+      "sha256": "d7352834586d7c48d55e9dd6b4959f305670ad3027c90cb000ca4780aee48dfb"
+    },
+    "Settings/Image/start_d.bmp": {
+      "bytes": 22992,
+      "sha256": "ccc93644dbd5f513238532b204e3c800349871e10a84da52db42d4554162804f"
+    },
+    "Settings/Image/start_mo.bmp": {
+      "bytes": 22992,
+      "sha256": "dabf1dce4f0c3fe19e848d2d08a93f4765bf6d895b4be4b61cc280eb68da470e"
+    },
+    "Settings/Image/Thumbs.db": {
+      "bytes": 37376,
+      "sha256": "845c6c73eae6652064d05a6a5bfedf0ae5caf224b07b62a851913ca1a7f81266"
+    },
+    "Settings/UISettings.ini": {
+      "bytes": 3462,
+      "sha256": "d1a0362170c6baab25f97180fa7fd8ef189be171124281f29c94b08e1b1345ea"
+    },
+    "Settings/UISettings_user_guide.txt": {
+      "bytes": 4624,
+      "sha256": "0c070ade1de8eed0da2ebfdad3ed8bc151141fa08ea56b5c7d2d47f6bb863b68"
+    }
+  },
+  "template_settings": {
+    "UISettings": {
+      "isptitle": "ISP Tool",
+      "ispprogramtext": "ISP Program",
+      "ispwarningmsg": "",
+      "ispwarningmsg2": "",
+      "ispmsgfontcolorr": "255",
+      "ispmsgfontcolorg": "255",
+      "ispmsgfontcolorb": "0",
+      "ispmsgfontcolorsize": "25",
+      "startbuttonstring": "Start",
+      "closebuttonstring": "Close",
+      "ispstartmsg": "Start update...",
+      "ispsuccessmsg": "Update successfully",
+      "ispfailmsg": "Update fail",
+      "programonetime": "0",
+      "closesetting": "0",
+      "acpowercheck": "0",
+      "acpowercheckwarningmsg": "Please connect AC-adapter",
+      "checkdevicecmd": "AA55A55AFF0033CC",
+      "checkbootloaderid": "1",
+      "devicechangecheck": "1",
+      "curversion": "0x0100",
+      "ispfwupdatedmsg": "Firmware is already updated",
+      "showmessagebox": "0",
+      "showclosebuttonafterprogram": "0"
+    },
+    "SpecialPID": {
+      "count": "0"
+    },
+    "SpecialPID0": {
+      "vid": "0x0C45",
+      "pid": "0x80BE",
+      "chipname": "SN34F280",
+      "fwname": "SN34F280_User.hex",
+      "fwtype": "HEX",
+      "codesecurity": "0"
+    },
+    "SpecialPID1": {
+      "vid": "0x0C45",
+      "pid": "0x8037",
+      "chipname": "SN34F280",
+      "fwname": "SN34F280_User.hex",
+      "fwtype": "HEX"
+    },
+    "SpecialPID2": {
+      "vid": "0x0C45",
+      "pid": "0x8037",
+      "chipname": "SN34F280",
+      "fwname": "SN34F280_User.hex",
+      "fwtype": "HEX"
+    },
+    "SpecialPID3": {
+      "vid": "0x0C45",
+      "pid": "0x809E",
+      "chipname": "SN34F280",
+      "fwname": "SN34F280_User.hex",
+      "fwtype": "HEX"
+    },
+    "StartButtonInfo": {
+      "starty": "225",
+      "width": "162",
+      "height": "47"
+    },
+    "ExitButtonInfo": {
+      "startx": "516",
+      "starty": "0",
+      "width": "16",
+      "height": "16"
+    },
+    "ProgressInfo": {
+      "startx": "30",
+      "starty": "150",
+      "width": "472",
+      "height": "31"
+    },
+    "ProgramMessageInfo": {
+      "startx": "204",
+      "starty": "76"
+    },
+    "WarningMessage1Info": {
+      "startx": "28",
+      "starty": "166"
+    },
+    "WarningMessage2Info": {
+      "startx": "173",
+      "starty": "77"
+    },
+    "FWNameInfo": {
+      "show": "0",
+      "name": "FWName",
+      "startx": "30",
+      "starty": "50",
+      "fontcolorr": "255",
+      "fontcolorg": "0",
+      "fontcolorb": "255",
+      "fontsize": "15"
+    },
+    "ChecksumInfo": {
+      "show": "0",
+      "name": "CheckSum",
+      "startx": "30",
+      "starty": "80",
+      "fontcolorr": "255",
+      "fontcolorg": "255",
+      "fontcolorb": "0",
+      "fontsize": "15"
+    },
+    "DeviceVerInfo": {
+      "show": "0",
+      "name": "Device Ver",
+      "startx": "30",
+      "starty": "110",
+      "fontcolorr": "0",
+      "fontcolorg": "255",
+      "fontcolorb": "255",
+      "fontsize": "15"
+    }
+  },
+  "template_images": [
+    {
+      "name": "Settings/FWFiles/SN34F280_User.hex",
+      "hex": {
+        "records": 5767,
+        "populated_bytes": 92172,
+        "ranges": [
+          [
+            0,
+            92168
+          ],
+          [
+            516092,
+            516096
+          ]
+        ],
+        "entry": 449,
+        "checksums_valid": true
+      },
+      "sparse_matches_active": false,
+      "differing_populated_bytes": 77665,
+      "first_differing_addresses": [
+        0,
+        1,
+        12,
+        13,
+        60,
+        61,
+        76,
+        77,
+        108,
+        109,
+        136,
+        137,
+        160,
+        161,
+        204,
+        205
+      ],
+      "padded_image": {
+        "bytes": 516096,
+        "sha256": "08abfe6c5ec76475c264f00522c085bc6c43ad559953e89d75d96a4a8f559d58",
+        "initial_sp": "20007038",
+        "reset": "00000205",
+        "plausible_vectors": true,
+        "word_sum": "DF08",
+        "tail_16": "ffffffffffffffffffffffff5555aaaa",
+        "sonix_identity_heuristic": {
+          "offset": 36864,
+          "vid": "0C45",
+          "pid": "80BE",
+          "version_raw": "0117",
+          "manufacturer": "0166",
+          "field_900e": "0000",
+          "compatibility_proven": false
+        }
+      },
+      "hole_fill": "FF for analysis only; not selected for flashing"
+    }
+  ]
+}

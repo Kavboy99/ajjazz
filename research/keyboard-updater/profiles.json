@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "purpose": "Offline evidence catalogue; a record is not permission or proof to flash a physical board",
+  "protocols": {
+    "sonix-sn34f280-oem-20240318": {
+      "chip": "SN34F280",
+      "boot_vid": "0C45",
+      "boot_pid": "7210",
+      "version_signature": "20080000",
+      "feature_payload_bytes": 64,
+      "windows_feature_bytes": 65,
+      "user_image_bytes": 516096,
+      "erase_pages": 504,
+      "program_blocks": 8064,
+      "evidence": "support-updater.exe SHA256 edd4914b...; data VA 005B34D7 / 005B3060; x86 constructors verified by emulation",
+      "hardware_validated_native_transport": false
+    }
+  },
+  "boards": [
+    {
+      "id": "ak820max-ultra-80a0-stock-136",
+      "image_sha256": "58db8a73ea8be7b8f730d67177f3ad78ec1b28b2b73ac15861e67963a1b116ff",
+      "image_bytes": 516096,
+      "updater_sha256": "edd4914bdd93bc3d557173e554efd40e7b531f5d6275b5bc8c8c6f7f4aa570d4",
+      "protocol": "sonix-sn34f280-oem-20240318",
+      "application": {"vid":"0C45","pid":"80A0","manufacturer":"0166","product":"1004"},
+      "observed_current_versions": ["1.30","1.36"],
+      "image_version_raw": "0136",
+      "hardware_evidence": "Saved snapshots and prior successful OEM installation of an AJKS derivative; not a test of this native codec",
+      "ajks_port": "Exact audited OEM 1.36 baseline only"
+    },
+    {
+      "id": "ak820max-8033-recovery-104-research",
+      "image_sha256": "65a06780cb5b229930a3d783c244121fd49c31781cee047794ed9ffd7cb45c45",
+      "image_bytes": 516096,
+      "updater_sha256": "5a26129658151e85a9699b871b93fdacdd72aebf1f215153174f19de58fe8e11",
+      "protocol": null,
+      "application": {"vid":"0C45","pid":"8033","manufacturer":"0166","product":null},
+      "observed_current_versions": [],
+      "image_version_raw": "0104",
+      "hardware_evidence": "Package analysis only; UI declares 8033/8070; resource 4009 says 7903; boot path requires separate verification",
+      "ajks_port": "Not ported; do not reuse 1.36 patch addresses"
+    }
+  ]
+}

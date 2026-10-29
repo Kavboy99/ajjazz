@@ -1,0 +1,88 @@
+{
+  "schema": 1,
+  "name": "Северное сияние",
+  "duration": 8.0,
+  "fps": 30,
+  "brightness": 0.8,
+  "layers": [
+    {
+      "name": "Сияние",
+      "enabled": true,
+      "effect": "Wave",
+      "blend": "Replace",
+      "keys": [],
+      "colors": [
+        [
+          38,
+          225,
+          190
+        ],
+        [
+          111,
+          76,
+          240
+        ]
+      ],
+      "opacity": 1.0,
+      "speed": 0.25,
+      "scale": 1.0,
+      "angle": 0.0,
+      "phase": 0.0
+    },
+    {
+      "name": "Акцент WASD",
+      "enabled": true,
+      "effect": "Breathing",
+      "blend": "Replace",
+      "keys": [
+        34,
+        49,
+        50,
+        51
+      ],
+      "colors": [
+        [
+          255,
+          172,
+          74
+        ],
+        [
+          255,
+          88,
+          120
+        ]
+      ],
+      "opacity": 0.75,
+      "speed": 0.5,
+      "scale": 1.0,
+      "angle": 0.0,
+      "phase": 0.0
+    }
+  ],
+  "dock_layers": [
+    {
+      "name": "Ореол дока · эскиз",
+      "enabled": true,
+      "effect": "Wave",
+      "blend": "Replace",
+      "keys": [],
+      "colors": [
+        [
+          38,
+          225,
+          190
+        ],
+        [
+          111,
+          76,
+          240
+        ]
+      ],
+      "opacity": 1.0,
+      "speed": 0.25,
+      "scale": 1.0,
+      "angle": 0.0,
+      "phase": 0.0
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "name": "Лунная рябь",
+  "duration": 12,
+  "fps": 15,
+  "brightness": 0.92,
+  "layers": [
+    {
+      "name": "Solid",
+      "enabled": true,
+      "effect": "Solid",
+      "blend": "Replace",
+      "keys": [],
+      "colors": [
+        [
+          2,
+          7,
+          20
+        ],
+        [
+          2,
+          7,
+          20
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Raindrops",
+      "enabled": true,
+      "effect": "Raindrops",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          0,
+          0,
+          8
+        ],
+        [
+          70,
+          170,
+          230
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0.46,
+      "scale": 1.1,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Raindrops",
+      "enabled": true,
+      "effect": "Raindrops",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          0,
+          0,
+          2
+        ],
+        [
+          130,
+          205,
+          245
+        ]
+      ],
+      "opacity": 0.7,
+      "speed": 0.31,
+      "scale": 0.8,
+      "angle": 0,
+      "phase": 0.43
+    }
+  ],
+  "dock_layers": []
+}

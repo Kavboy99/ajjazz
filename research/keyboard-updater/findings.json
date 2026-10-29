@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "date": "2026-10-26",
+  "sections": [
+    {
+      "name": ".text",
+      "bytes_first": 1416192,
+      "bytes_second": 1416192,
+      "first_sha256": "711ec8d76d81b39758372a8154663317475dccb3644cda950a9a5683c3017260",
+      "second_sha256": "711ec8d76d81b39758372a8154663317475dccb3644cda950a9a5683c3017260",
+      "identical": true
+    },
+    {
+      "name": ".rdata",
+      "bytes_first": 318464,
+      "bytes_second": 318464,
+      "first_sha256": "292f5abf23ae428ab3620ec9318665c0982df7009ca3f08daad148a50fa016c7",
+      "second_sha256": "292f5abf23ae428ab3620ec9318665c0982df7009ca3f08daad148a50fa016c7",
+      "identical": true
+    },
+    {
+      "name": ".data",
+      "bytes_first": 43008,
+      "bytes_second": 43008,
+      "first_sha256": "4a66e99abae59717a37902c1b12583d52e1abea1b2007269660d88d173404a34",
+      "second_sha256": "4a66e99abae59717a37902c1b12583d52e1abea1b2007269660d88d173404a34",
+      "identical": true
+    }
+  ],
+  "decompilation": {
+    "selected": 331,
+    "decompiled": 331
+  },
+  "support_updater_sha256": "edd4914bdd93bc3d557173e554efd40e7b531f5d6275b5bc8c8c6f7f4aa570d4",
+  "recovery_updater_sha256": "5a26129658151e85a9699b871b93fdacdd72aebf1f215153174f19de58fe8e11",
+  "firmware_comparison": {
+    "changed_bytes": 79969,
+    "changed_ranges": 2429,
+    "changed_pages_512": 172
+  },
+  "profiles_are_evidence_not_automatic_compatibility": true,
+  "x86_codec_validation_passed": true,
+  "hardware_access": false,
+  "vendor_process_started": false
+}

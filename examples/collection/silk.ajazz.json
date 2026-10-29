@@ -1,0 +1,106 @@
+{
+  "schema": 1,
+  "name": "Шёлк",
+  "duration": 12,
+  "fps": 15,
+  "brightness": 0.92,
+  "layers": [
+    {
+      "name": "Solid",
+      "enabled": true,
+      "effect": "Solid",
+      "blend": "Replace",
+      "keys": [],
+      "colors": [
+        [
+          3,
+          6,
+          14
+        ],
+        [
+          3,
+          6,
+          14
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "TwinWave",
+      "enabled": true,
+      "effect": "TwinWave",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          8,
+          15,
+          55
+        ],
+        [
+          40,
+          145,
+          175
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0.15,
+      "scale": 0.85,
+      "angle": 25,
+      "phase": 0
+    },
+    {
+      "name": "Nebula",
+      "enabled": true,
+      "effect": "Nebula",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          10,
+          2,
+          35
+        ],
+        [
+          145,
+          50,
+          170
+        ]
+      ],
+      "opacity": 0.6,
+      "speed": 0.12,
+      "scale": 1.25,
+      "angle": 135,
+      "phase": 0
+    },
+    {
+      "name": "Wave",
+      "enabled": true,
+      "effect": "Wave",
+      "blend": "Multiply",
+      "keys": [],
+      "colors": [
+        [
+          48,
+          48,
+          48
+        ],
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "opacity": 0.65,
+      "speed": 0.1,
+      "scale": 1,
+      "angle": 70,
+      "phase": 0
+    }
+  ],
+  "dock_layers": []
+}

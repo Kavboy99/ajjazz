@@ -1,0 +1,130 @@
+{
+  "schema": 1,
+  "name": "Медные угли",
+  "duration": 12,
+  "fps": 15,
+  "brightness": 0.92,
+  "layers": [
+    {
+      "name": "Solid",
+      "enabled": true,
+      "effect": "Solid",
+      "blend": "Replace",
+      "keys": [],
+      "colors": [
+        [
+          8,
+          2,
+          0
+        ],
+        [
+          8,
+          2,
+          0
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Fireflies",
+      "enabled": true,
+      "effect": "Fireflies",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          15,
+          0,
+          0
+        ],
+        [
+          230,
+          65,
+          8
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0.3,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Fireflies",
+      "enabled": true,
+      "effect": "Fireflies",
+      "blend": "Add",
+      "keys": [
+        0,
+        3,
+        6,
+        11,
+        17,
+        22,
+        25,
+        28,
+        33,
+        36,
+        39,
+        44,
+        50,
+        55,
+        58,
+        66,
+        69,
+        72,
+        80,
+        83,
+        88,
+        91,
+        105
+      ],
+      "colors": [
+        [
+          6,
+          0,
+          0
+        ],
+        [
+          255,
+          155,
+          35
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0.19,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0.4
+    },
+    {
+      "name": "Wave",
+      "enabled": true,
+      "effect": "Wave",
+      "blend": "Multiply",
+      "keys": [],
+      "colors": [
+        [
+          48,
+          48,
+          48
+        ],
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "opacity": 0.65,
+      "speed": 0.08,
+      "scale": 1.2,
+      "angle": 90,
+      "phase": 0
+    }
+  ],
+  "dock_layers": []
+}

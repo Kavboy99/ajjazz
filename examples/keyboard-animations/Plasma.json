@@ -1,0 +1,22 @@
+{
+  "preset": "Plasma",
+  "colors": [
+    [
+      255,
+      15,
+      115
+    ],
+    [
+      20,
+      145,
+      255
+    ]
+  ],
+  "speed": 0.2,
+  "scale": 1,
+  "brightness": 0.8,
+  "angle": 0,
+  "reverse": false,
+  "duration": 30,
+  "keys": []
+}

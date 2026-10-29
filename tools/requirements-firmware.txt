@@ -1,0 +1,9 @@
+# Optional offline firmware/container research; not application dependencies.
+-r requirements.txt
+pefile>=2024.8.26,<2025
+capstone>=5.0.9,<6
+wasmtime>=49,<50
+py7zr>=1.1.4,<2
+unicorn>=2.1.4,<3
+cryptography>=46,<51
+xdis>=6.3,<7

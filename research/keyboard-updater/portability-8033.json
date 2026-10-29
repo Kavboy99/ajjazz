@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "source_sha256": "58db8a73ea8be7b8f730d67177f3ad78ec1b28b2b73ac15861e67963a1b116ff",
+  "target": {
+    "bytes": 516096,
+    "sha256": "65a06780cb5b229930a3d783c244121fd49c31781cee047794ed9ffd7cb45c45",
+    "initial_sp": "20006F88",
+    "reset": "00000205",
+    "plausible_vectors": true,
+    "word_sum": "7FA1",
+    "tail_16": "0000000000000000000000005555aaaa",
+    "sonix_identity_heuristic": {
+      "offset": 36864,
+      "vid": "0C45",
+      "pid": "8033",
+      "version_raw": "0104",
+      "manufacturer": "0166",
+      "field_900e": "0000",
+      "compatibility_proven": false
+    }
+  },
+  "anchors": [
+    {
+      "name": "lighting",
+      "source_site": 66844,
+      "context_sha256": "4881fe683962f621468a0d98d14dd4d9b7192ed6f2b92633c7f7e952c11ea261",
+      "exact_candidates": [],
+      "status": "missing"
+    },
+    {
+      "name": "usb_dispatch",
+      "source_site": 66864,
+      "context_sha256": "a05cd2bf0ec7295ee0cc5dd6d52250640c4b06645ca7500f22d48c48da4e57e7",
+      "exact_candidates": [],
+      "status": "missing"
+    },
+    {
+      "name": "encoder_rotation",
+      "source_site": 22516,
+      "context_sha256": "5dc645e1d73a94724aa0997d3f3c67854df1483729a94ff3a0b748f201deaa8a",
+      "exact_candidates": [],
+      "status": "missing"
+    },
+    {
+      "name": "encoder_press_1",
+      "source_site": 65816,
+      "context_sha256": "33e6608ad3fd21377c29b2d07b257a648184a16512d26165a665c1f0bb2af594",
+      "exact_candidates": [],
+      "status": "missing"
+    },
+    {
+      "name": "encoder_press_2",
+      "source_site": 65852,
+      "context_sha256": "86fc4f77abee57255db97da804f8dbe9f298480346abd5e074461b06ad13089c",
+      "exact_candidates": [],
+      "status": "missing"
+    },
+    {
+      "name": "key_event",
+      "source_site": 81300,
+      "context_sha256": "3ad8ddcdc4e3030e69661664676db9c2cb3d8fbd1d6e4d8d3d7d94c77503c296",
+      "exact_candidates": [],
+      "status": "missing"
+    }
+  ],
+  "reservations": [
+    {
+      "start": 131072,
+      "end_exclusive": 147456,
+      "entirely_zero": true
+    },
+    {
+      "start": 147456,
+      "end_exclusive": 155648,
+      "entirely_zero": true
+    },
+    {
+      "start": 155648,
+      "end_exclusive": 156672,
+      "entirely_zero": true
+    }
+  ],
+  "automatically_portable": false,
+  "reason": "Exact anchors alone do not validate RAM, scatter loading, ABI, LED map, flash routines or board wiring",
+  "patches_written": false,
+  "hardware_access": false
+}

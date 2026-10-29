@@ -1,0 +1,3962 @@
+[
+  {
+    "id": "fireflies",
+    "name": "Светлячки",
+    "family": "nature",
+    "description": "Любимый исходный рисунок: мягкие зелёные огоньки на тёмном фоне.",
+    "scene": {
+      "schema": 1,
+      "name": "Светлячки",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              12,
+              3
+            ],
+            [
+              170,
+              255,
+              45
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.48,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "living-forest",
+    "name": "Живой лес",
+    "family": "nature",
+    "description": "Два ритма огоньков и медленно движущаяся тень.",
+    "scene": {
+      "schema": 1,
+      "name": "Живой лес",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [
+            2,
+            4,
+            6,
+            9,
+            11,
+            16,
+            18,
+            20,
+            23,
+            25,
+            27,
+            32,
+            34,
+            37,
+            39,
+            41,
+            44,
+            48,
+            51,
+            53,
+            55,
+            58,
+            60,
+            65,
+            67,
+            69,
+            72,
+            74,
+            76,
+            81,
+            83,
+            88,
+            90,
+            104,
+            107
+          ],
+          "colors": [
+            [
+              0,
+              8,
+              1
+            ],
+            [
+              100,
+              240,
+              35
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.27,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [
+            0,
+            1,
+            3,
+            5,
+            7,
+            8,
+            10,
+            12,
+            17,
+            19,
+            21,
+            22,
+            24,
+            26,
+            28,
+            33,
+            35,
+            36,
+            38,
+            40,
+            42,
+            43,
+            49,
+            50,
+            52,
+            54,
+            56,
+            57,
+            59,
+            64,
+            66,
+            68,
+            70,
+            71,
+            73,
+            75,
+            80,
+            82,
+            84,
+            85,
+            87,
+            89,
+            91,
+            92,
+            105,
+            106,
+            108
+          ],
+          "colors": [
+            [
+              0,
+              8,
+              5
+            ],
+            [
+              20,
+              180,
+              110
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.43,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0.37
+        },
+        {
+          "name": "Wave",
+          "enabled": true,
+          "effect": "Wave",
+          "blend": "Multiply",
+          "keys": [],
+          "colors": [
+            [
+              48,
+              48,
+              48
+            ],
+            [
+              255,
+              255,
+              255
+            ]
+          ],
+          "opacity": 0.65,
+          "speed": 0.075,
+          "scale": 1.1,
+          "angle": 65,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "biolume",
+    "name": "Люмина",
+    "family": "nature",
+    "description": "Бирюзовые огоньки вспыхивают под мягкой подводной волной.",
+    "scene": {
+      "schema": 1,
+      "name": "Люмина",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              6,
+              14
+            ],
+            [
+              20,
+              225,
+              190
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.35,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Wave",
+          "enabled": true,
+          "effect": "Wave",
+          "blend": "Multiply",
+          "keys": [],
+          "colors": [
+            [
+              48,
+              48,
+              48
+            ],
+            [
+              255,
+              255,
+              255
+            ]
+          ],
+          "opacity": 0.65,
+          "speed": 0.13,
+          "scale": 1.7,
+          "angle": 85,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "pollen",
+    "name": "Пыльца",
+    "family": "nature",
+    "description": "Тёплые частицы: медленное золотое мерцание с редкими искрами.",
+    "scene": {
+      "schema": 1,
+      "name": "Пыльца",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [
+            0,
+            1,
+            3,
+            5,
+            7,
+            8,
+            10,
+            12,
+            17,
+            19,
+            21,
+            22,
+            24,
+            26,
+            28,
+            33,
+            35,
+            36,
+            38,
+            40,
+            42,
+            43,
+            49,
+            50,
+            52,
+            54,
+            56,
+            57,
+            59,
+            64,
+            66,
+            68,
+            70,
+            71,
+            73,
+            75,
+            80,
+            82,
+            84,
+            85,
+            87,
+            89,
+            91,
+            92,
+            105,
+            106,
+            108
+          ],
+          "colors": [
+            [
+              12,
+              3,
+              0
+            ],
+            [
+              255,
+              155,
+              28
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.24,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [
+            2,
+            4,
+            6,
+            9,
+            11,
+            16,
+            18,
+            20,
+            23,
+            25,
+            27,
+            32,
+            34,
+            37,
+            39,
+            41,
+            44,
+            48,
+            51,
+            53,
+            55,
+            58,
+            60,
+            65,
+            67,
+            69,
+            72,
+            74,
+            76,
+            81,
+            83,
+            88,
+            90,
+            104,
+            107
+          ],
+          "colors": [
+            [
+              4,
+              2,
+              0
+            ],
+            [
+              245,
+              220,
+              95
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.53,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0.2
+        },
+        {
+          "name": "Wave",
+          "enabled": true,
+          "effect": "Wave",
+          "blend": "Multiply",
+          "keys": [],
+          "colors": [
+            [
+              48,
+              48,
+              48
+            ],
+            [
+              255,
+              255,
+              255
+            ]
+          ],
+          "opacity": 0.65,
+          "speed": 0.09,
+          "scale": 1,
+          "angle": 20,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "night-garden",
+    "name": "Ночной сад",
+    "family": "nature",
+    "description": "Локальные фиолетовые и зелёные огоньки, разделённые по клавишам.",
+    "scene": {
+      "schema": 1,
+      "name": "Ночной сад",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [
+            0,
+            1,
+            3,
+            5,
+            7,
+            8,
+            10,
+            12,
+            17,
+            19,
+            21,
+            22,
+            24,
+            26,
+            28,
+            33,
+            35,
+            36,
+            38,
+            40,
+            42,
+            43,
+            49,
+            50,
+            52,
+            54,
+            56,
+            57,
+            59,
+            64,
+            66,
+            68,
+            70,
+            71,
+            73,
+            75,
+            80,
+            82,
+            84,
+            85,
+            87,
+            89,
+            91,
+            92,
+            105,
+            106,
+            108
+          ],
+          "colors": [
+            [
+              0,
+              5,
+              0
+            ],
+            [
+              75,
+              200,
+              60
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.31,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [
+            2,
+            4,
+            6,
+            9,
+            11,
+            16,
+            18,
+            20,
+            23,
+            25,
+            27,
+            32,
+            34,
+            37,
+            39,
+            41,
+            44,
+            48,
+            51,
+            53,
+            55,
+            58,
+            60,
+            65,
+            67,
+            69,
+            72,
+            74,
+            76,
+            81,
+            83,
+            88,
+            90,
+            104,
+            107
+          ],
+          "colors": [
+            [
+              5,
+              0,
+              12
+            ],
+            [
+              160,
+              70,
+              215
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.2,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0.55
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "constellation",
+    "name": "Созвездия",
+    "family": "space",
+    "description": "Редкие холодные звёзды над едва заметной туманностью.",
+    "scene": {
+      "schema": 1,
+      "name": "Созвездия",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Nebula",
+          "enabled": true,
+          "effect": "Nebula",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              20
+            ],
+            [
+              25,
+              30,
+              65
+            ]
+          ],
+          "opacity": 0.45,
+          "speed": 0.1,
+          "scale": 1.3,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [
+            0,
+            3,
+            6,
+            11,
+            17,
+            22,
+            25,
+            28,
+            33,
+            36,
+            39,
+            44,
+            50,
+            55,
+            58,
+            66,
+            69,
+            72,
+            80,
+            83,
+            88,
+            91,
+            105
+          ],
+          "colors": [
+            [
+              2,
+              5,
+              12
+            ],
+            [
+              155,
+              195,
+              255
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.32,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [
+            0,
+            1,
+            3,
+            5,
+            7,
+            8,
+            10,
+            12,
+            17,
+            19,
+            21,
+            22,
+            24,
+            26,
+            28,
+            33,
+            35,
+            36,
+            38,
+            40,
+            42,
+            43,
+            49,
+            50,
+            52,
+            54,
+            56,
+            57,
+            59,
+            64,
+            66,
+            68,
+            70,
+            71,
+            73,
+            75,
+            80,
+            82,
+            84,
+            85,
+            87,
+            89,
+            91,
+            92,
+            105,
+            106,
+            108
+          ],
+          "colors": [
+            [
+              0,
+              2,
+              7
+            ],
+            [
+              65,
+              120,
+              230
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.19,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0.4
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "starwind",
+    "name": "Звёздный ветер",
+    "family": "space",
+    "description": "Звёздное поле и тонкие кометные следы на части клавиш.",
+    "scene": {
+      "schema": 1,
+      "name": "Звёздный ветер",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              3,
+              10
+            ],
+            [
+              85,
+              135,
+              220
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.26,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Comet",
+          "enabled": true,
+          "effect": "Comet",
+          "blend": "Add",
+          "keys": [
+            2,
+            4,
+            6,
+            9,
+            11,
+            16,
+            18,
+            20,
+            23,
+            25,
+            27,
+            32,
+            34,
+            37,
+            39,
+            41,
+            44,
+            48,
+            51,
+            53,
+            55,
+            58,
+            60,
+            65,
+            67,
+            69,
+            72,
+            74,
+            76,
+            81,
+            83,
+            88,
+            90,
+            104,
+            107
+          ],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              175,
+              220,
+              255
+            ]
+          ],
+          "opacity": 0.7,
+          "speed": 0.23,
+          "scale": 0.7,
+          "angle": 17,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "nebula-drift",
+    "name": "Тихий космос",
+    "family": "space",
+    "description": "Два разнонаправленных облака с очень медленными переливами.",
+    "scene": {
+      "schema": 1,
+      "name": "Тихий космос",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Nebula",
+          "enabled": true,
+          "effect": "Nebula",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              6,
+              12,
+              65
+            ],
+            [
+              115,
+              20,
+              150
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.14,
+          "scale": 1.8,
+          "angle": 18,
+          "phase": 0
+        },
+        {
+          "name": "Nebula",
+          "enabled": true,
+          "effect": "Nebula",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              10,
+              25
+            ],
+            [
+              15,
+              135,
+              150
+            ]
+          ],
+          "opacity": 0.48,
+          "speed": 0.19,
+          "scale": 1.2,
+          "angle": 145,
+          "phase": 0.4
+        },
+        {
+          "name": "Wave",
+          "enabled": true,
+          "effect": "Wave",
+          "blend": "Multiply",
+          "keys": [],
+          "colors": [
+            [
+              48,
+              48,
+              48
+            ],
+            [
+              255,
+              255,
+              255
+            ]
+          ],
+          "opacity": 0.65,
+          "speed": 0.07,
+          "scale": 0.8,
+          "angle": 90,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "meteor-shower",
+    "name": "Метеоры",
+    "family": "motion",
+    "description": "Три потока комет движутся под разными углами.",
+    "scene": {
+      "schema": 1,
+      "name": "Метеоры",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Comet",
+          "enabled": true,
+          "effect": "Comet",
+          "blend": "Add",
+          "keys": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            60,
+            92,
+            104,
+            105,
+            106
+          ],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              70,
+              185,
+              255
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.57,
+          "scale": 1.4,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Comet",
+          "enabled": true,
+          "effect": "Comet",
+          "blend": "Add",
+          "keys": [
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            87,
+            88,
+            89,
+            90,
+            91,
+            107,
+            108
+          ],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              180,
+              120,
+              255
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.41,
+          "scale": 1.1,
+          "angle": 180,
+          "phase": 0.4
+        },
+        {
+          "name": "Comet",
+          "enabled": true,
+          "effect": "Comet",
+          "blend": "Add",
+          "keys": [
+            0,
+            3,
+            6,
+            11,
+            17,
+            22,
+            25,
+            28,
+            33,
+            36,
+            39,
+            44,
+            50,
+            55,
+            58,
+            66,
+            69,
+            72,
+            80,
+            83,
+            88,
+            91,
+            105
+          ],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              230,
+              235,
+              255
+            ]
+          ],
+          "opacity": 0.7,
+          "speed": 0.76,
+          "scale": 1.8,
+          "angle": 12,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "comet-trail",
+    "name": "Орбитальный след",
+    "family": "space",
+    "description": "Два встречных хвоста на тёмном фоне.",
+    "scene": {
+      "schema": 1,
+      "name": "Орбитальный след",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Comet",
+          "enabled": true,
+          "effect": "Comet",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              25,
+              220,
+              180
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.33,
+          "scale": 1.1,
+          "angle": 35,
+          "phase": 0
+        },
+        {
+          "name": "Comet",
+          "enabled": true,
+          "effect": "Comet",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              200,
+              115,
+              255
+            ]
+          ],
+          "opacity": 0.6,
+          "speed": 0.24,
+          "scale": 0.8,
+          "angle": 215,
+          "phase": 0.6
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "moon-pool",
+    "name": "Лунная рябь",
+    "family": "nature",
+    "description": "Два независимых круга расходятся по спокойной синей воде.",
+    "scene": {
+      "schema": 1,
+      "name": "Лунная рябь",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              2,
+              7,
+              20
+            ],
+            [
+              2,
+              7,
+              20
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Raindrops",
+          "enabled": true,
+          "effect": "Raindrops",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              0,
+              8
+            ],
+            [
+              70,
+              170,
+              230
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.46,
+          "scale": 1.1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Raindrops",
+          "enabled": true,
+          "effect": "Raindrops",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              0,
+              2
+            ],
+            [
+              130,
+              205,
+              245
+            ]
+          ],
+          "opacity": 0.7,
+          "speed": 0.31,
+          "scale": 0.8,
+          "angle": 0,
+          "phase": 0.43
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "deep-tide",
+    "name": "Прилив",
+    "family": "nature",
+    "description": "Волны разной ширины медленно проходят через глубину.",
+    "scene": {
+      "schema": 1,
+      "name": "Прилив",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "TwinWave",
+          "enabled": true,
+          "effect": "TwinWave",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              2,
+              12,
+              35
+            ],
+            [
+              10,
+              115,
+              150
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.15,
+          "scale": 1.4,
+          "angle": 78,
+          "phase": 0
+        },
+        {
+          "name": "Wave",
+          "enabled": true,
+          "effect": "Wave",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              10,
+              30
+            ],
+            [
+              20,
+              160,
+              205
+            ]
+          ],
+          "opacity": 0.45,
+          "speed": 0.23,
+          "scale": 0.65,
+          "angle": 95,
+          "phase": 0
+        },
+        {
+          "name": "Wave",
+          "enabled": true,
+          "effect": "Wave",
+          "blend": "Multiply",
+          "keys": [],
+          "colors": [
+            [
+              48,
+              48,
+              48
+            ],
+            [
+              255,
+              255,
+              255
+            ]
+          ],
+          "opacity": 0.65,
+          "speed": 0.09,
+          "scale": 0.8,
+          "angle": 10,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "ocean-floor",
+    "name": "Глубина",
+    "family": "nature",
+    "description": "Бирюзовые блики на тёмном морском дне.",
+    "scene": {
+      "schema": 1,
+      "name": "Глубина",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Nebula",
+          "enabled": true,
+          "effect": "Nebula",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              12,
+              35
+            ],
+            [
+              5,
+              130,
+              145
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.19,
+          "scale": 2,
+          "angle": 90,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              3,
+              7
+            ],
+            [
+              45,
+              195,
+              170
+            ]
+          ],
+          "opacity": 0.6,
+          "speed": 0.31,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Wave",
+          "enabled": true,
+          "effect": "Wave",
+          "blend": "Multiply",
+          "keys": [],
+          "colors": [
+            [
+              48,
+              48,
+              48
+            ],
+            [
+              255,
+              255,
+              255
+            ]
+          ],
+          "opacity": 0.65,
+          "speed": 0.12,
+          "scale": 1.3,
+          "angle": 25,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "rain-window",
+    "name": "Дождь за окном",
+    "family": "nature",
+    "description": "Тихие синие струи и отдельные светлые капли.",
+    "scene": {
+      "schema": 1,
+      "name": "Дождь за окном",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "DigitalRain",
+          "enabled": true,
+          "effect": "DigitalRain",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              35,
+              100,
+              170
+            ]
+          ],
+          "opacity": 0.7,
+          "speed": 0.25,
+          "scale": 1.3,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [
+            0,
+            3,
+            6,
+            11,
+            17,
+            22,
+            25,
+            28,
+            33,
+            36,
+            39,
+            44,
+            50,
+            55,
+            58,
+            66,
+            69,
+            72,
+            80,
+            83,
+            88,
+            91,
+            105
+          ],
+          "colors": [
+            [
+              0,
+              0,
+              2
+            ],
+            [
+              100,
+              165,
+              230
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.4,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "neon-rain",
+    "name": "Неоновый дождь",
+    "family": "motion",
+    "description": "Зелёные потоки с фиолетовыми отражениями.",
+    "scene": {
+      "schema": 1,
+      "name": "Неоновый дождь",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "DigitalRain",
+          "enabled": true,
+          "effect": "DigitalRain",
+          "blend": "Add",
+          "keys": [
+            0,
+            1,
+            3,
+            5,
+            7,
+            8,
+            10,
+            12,
+            17,
+            19,
+            21,
+            22,
+            24,
+            26,
+            28,
+            33,
+            35,
+            36,
+            38,
+            40,
+            42,
+            43,
+            49,
+            50,
+            52,
+            54,
+            56,
+            57,
+            59,
+            64,
+            66,
+            68,
+            70,
+            71,
+            73,
+            75,
+            80,
+            82,
+            84,
+            85,
+            87,
+            89,
+            91,
+            92,
+            105,
+            106,
+            108
+          ],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              30,
+              220,
+              130
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.55,
+          "scale": 1.3,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "DigitalRain",
+          "enabled": true,
+          "effect": "DigitalRain",
+          "blend": "Add",
+          "keys": [
+            2,
+            4,
+            6,
+            9,
+            11,
+            16,
+            18,
+            20,
+            23,
+            25,
+            27,
+            32,
+            34,
+            37,
+            39,
+            41,
+            44,
+            48,
+            51,
+            53,
+            55,
+            58,
+            60,
+            65,
+            67,
+            69,
+            72,
+            74,
+            76,
+            81,
+            83,
+            88,
+            90,
+            104,
+            107
+          ],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              170,
+              55,
+              230
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.37,
+          "scale": 0.9,
+          "angle": 0,
+          "phase": 0.35
+        },
+        {
+          "name": "Gradient",
+          "enabled": true,
+          "effect": "Gradient",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              5,
+              18
+            ],
+            [
+              20,
+              5,
+              40
+            ]
+          ],
+          "opacity": 0.5,
+          "speed": 0,
+          "scale": 0.7,
+          "angle": 90,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "silk",
+    "name": "Шёлк",
+    "family": "ambient",
+    "description": "Два широких световых полотна плавно пересекаются.",
+    "scene": {
+      "schema": 1,
+      "name": "Шёлк",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "TwinWave",
+          "enabled": true,
+          "effect": "TwinWave",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              8,
+              15,
+              55
+            ],
+            [
+              40,
+              145,
+              175
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.15,
+          "scale": 0.85,
+          "angle": 25,
+          "phase": 0
+        },
+        {
+          "name": "Nebula",
+          "enabled": true,
+          "effect": "Nebula",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              10,
+              2,
+              35
+            ],
+            [
+              145,
+              50,
+              170
+            ]
+          ],
+          "opacity": 0.6,
+          "speed": 0.12,
+          "scale": 1.25,
+          "angle": 135,
+          "phase": 0
+        },
+        {
+          "name": "Wave",
+          "enabled": true,
+          "effect": "Wave",
+          "blend": "Multiply",
+          "keys": [],
+          "colors": [
+            [
+              48,
+              48,
+              48
+            ],
+            [
+              255,
+              255,
+              255
+            ]
+          ],
+          "opacity": 0.65,
+          "speed": 0.1,
+          "scale": 1,
+          "angle": 70,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "watercolor",
+    "name": "Акварель",
+    "family": "ambient",
+    "description": "Полупрозрачные цветовые пятна медленно смешиваются.",
+    "scene": {
+      "schema": 1,
+      "name": "Акварель",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Mosaic",
+          "enabled": true,
+          "effect": "Mosaic",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              20,
+              30,
+              135
+            ],
+            [
+              180,
+              40,
+              110
+            ]
+          ],
+          "opacity": 0.75,
+          "speed": 0.32,
+          "scale": 0.5,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Mosaic",
+          "enabled": true,
+          "effect": "Mosaic",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              75,
+              100
+            ],
+            [
+              25,
+              185,
+              135
+            ]
+          ],
+          "opacity": 0.5,
+          "speed": 0.21,
+          "scale": 0.9,
+          "angle": 0,
+          "phase": 0.4
+        },
+        {
+          "name": "Nebula",
+          "enabled": true,
+          "effect": "Nebula",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              25,
+              15,
+              55
+            ],
+            [
+              90,
+              75,
+              130
+            ]
+          ],
+          "opacity": 0.3,
+          "speed": 0.13,
+          "scale": 1.4,
+          "angle": 0,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "northern-lights",
+    "name": "Северный свет",
+    "family": "ambient",
+    "description": "Зелёные занавесы с тонкими фиолетовыми переливами.",
+    "scene": {
+      "schema": 1,
+      "name": "Северный свет",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Aurora",
+          "enabled": true,
+          "effect": "Aurora",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              22,
+              50
+            ],
+            [
+              20,
+              160,
+              100
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.19,
+          "scale": 1.3,
+          "angle": 15,
+          "phase": 0
+        },
+        {
+          "name": "Aurora",
+          "enabled": true,
+          "effect": "Aurora",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              20,
+              0,
+              35
+            ],
+            [
+              100,
+              35,
+              155
+            ]
+          ],
+          "opacity": 0.52,
+          "speed": 0.13,
+          "scale": 1.7,
+          "angle": 160,
+          "phase": 0.4
+        },
+        {
+          "name": "Wave",
+          "enabled": true,
+          "effect": "Wave",
+          "blend": "Multiply",
+          "keys": [],
+          "colors": [
+            [
+              48,
+              48,
+              48
+            ],
+            [
+              255,
+              255,
+              255
+            ]
+          ],
+          "opacity": 0.65,
+          "speed": 0.06,
+          "scale": 1,
+          "angle": 70,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "cherry-smoke",
+    "name": "Вишнёвый дым",
+    "family": "ambient",
+    "description": "Бордовые и лиловые облака с мягкой пространственной тенью.",
+    "scene": {
+      "schema": 1,
+      "name": "Вишнёвый дым",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Nebula",
+          "enabled": true,
+          "effect": "Nebula",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              20,
+              0,
+              15
+            ],
+            [
+              170,
+              28,
+              80
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.17,
+          "scale": 1.7,
+          "angle": 20,
+          "phase": 0
+        },
+        {
+          "name": "Nebula",
+          "enabled": true,
+          "effect": "Nebula",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              5,
+              0,
+              25
+            ],
+            [
+              65,
+              25,
+              135
+            ]
+          ],
+          "opacity": 0.6,
+          "speed": 0.12,
+          "scale": 1.1,
+          "angle": 145,
+          "phase": 0.4
+        },
+        {
+          "name": "Wave",
+          "enabled": true,
+          "effect": "Wave",
+          "blend": "Multiply",
+          "keys": [],
+          "colors": [
+            [
+              48,
+              48,
+              48
+            ],
+            [
+              255,
+              255,
+              255
+            ]
+          ],
+          "opacity": 0.65,
+          "speed": 0.08,
+          "scale": 1.4,
+          "angle": 90,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "copper-embers",
+    "name": "Медные угли",
+    "family": "nature",
+    "description": "Светящиеся угольки без резкого случайного мигания.",
+    "scene": {
+      "schema": 1,
+      "name": "Медные угли",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              8,
+              2,
+              0
+            ],
+            [
+              8,
+              2,
+              0
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              15,
+              0,
+              0
+            ],
+            [
+              230,
+              65,
+              8
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.3,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [
+            0,
+            3,
+            6,
+            11,
+            17,
+            22,
+            25,
+            28,
+            33,
+            36,
+            39,
+            44,
+            50,
+            55,
+            58,
+            66,
+            69,
+            72,
+            80,
+            83,
+            88,
+            91,
+            105
+          ],
+          "colors": [
+            [
+              6,
+              0,
+              0
+            ],
+            [
+              255,
+              155,
+              35
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.19,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0.4
+        },
+        {
+          "name": "Wave",
+          "enabled": true,
+          "effect": "Wave",
+          "blend": "Multiply",
+          "keys": [],
+          "colors": [
+            [
+              48,
+              48,
+              48
+            ],
+            [
+              255,
+              255,
+              255
+            ]
+          ],
+          "opacity": 0.65,
+          "speed": 0.08,
+          "scale": 1.2,
+          "angle": 90,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "lava-flow",
+    "name": "Лавовый поток",
+    "family": "motion",
+    "description": "Огненная масса движется волнами под тёмной коркой.",
+    "scene": {
+      "schema": 1,
+      "name": "Лавовый поток",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              10,
+              0,
+              0
+            ],
+            [
+              10,
+              0,
+              0
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Nebula",
+          "enabled": true,
+          "effect": "Nebula",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              35,
+              0,
+              0
+            ],
+            [
+              245,
+              55,
+              5
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.28,
+          "scale": 2,
+          "angle": 90,
+          "phase": 0
+        },
+        {
+          "name": "Mosaic",
+          "enabled": true,
+          "effect": "Mosaic",
+          "blend": "Multiply",
+          "keys": [],
+          "colors": [
+            [
+              65,
+              65,
+              65
+            ],
+            [
+              255,
+              255,
+              255
+            ]
+          ],
+          "opacity": 0.8,
+          "speed": 0.35,
+          "scale": 1.6,
+          "angle": 0,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "sunset",
+    "name": "Закат",
+    "family": "ambient",
+    "description": "Тёплая нижняя часть и медленный лиловый свет сверху.",
+    "scene": {
+      "schema": 1,
+      "name": "Закат",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Gradient",
+          "enabled": true,
+          "effect": "Gradient",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              155,
+              35,
+              20
+            ],
+            [
+              35,
+              15,
+              90
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 0.85,
+          "angle": 90,
+          "phase": 0
+        },
+        {
+          "name": "Wave",
+          "enabled": true,
+          "effect": "Wave",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              90,
+              25,
+              80
+            ]
+          ],
+          "opacity": 0.35,
+          "speed": 0.12,
+          "scale": 0.8,
+          "angle": 20,
+          "phase": 0
+        },
+        {
+          "name": "Wave",
+          "enabled": true,
+          "effect": "Wave",
+          "blend": "Multiply",
+          "keys": [],
+          "colors": [
+            [
+              48,
+              48,
+              48
+            ],
+            [
+              255,
+              255,
+              255
+            ]
+          ],
+          "opacity": 0.65,
+          "speed": 0.09,
+          "scale": 1.3,
+          "angle": 130,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "dawn",
+    "name": "Рассвет",
+    "family": "ambient",
+    "description": "Спокойное переходящее свечение персиковых и прохладных тонов.",
+    "scene": {
+      "schema": 1,
+      "name": "Рассвет",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "TwinWave",
+          "enabled": true,
+          "effect": "TwinWave",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              45,
+              25,
+              65
+            ],
+            [
+              180,
+              85,
+              45
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.1,
+          "scale": 0.7,
+          "angle": 65,
+          "phase": 0
+        },
+        {
+          "name": "Nebula",
+          "enabled": true,
+          "effect": "Nebula",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              25,
+              50
+            ],
+            [
+              35,
+              90,
+              135
+            ]
+          ],
+          "opacity": 0.4,
+          "speed": 0.15,
+          "scale": 1.4,
+          "angle": 160,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "magnetic",
+    "name": "Магнитное поле",
+    "family": "motion",
+    "description": "Орбитальные полосы пересекает узкий световой луч.",
+    "scene": {
+      "schema": 1,
+      "name": "Магнитное поле",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Orbit",
+          "enabled": true,
+          "effect": "Orbit",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              15,
+              30
+            ],
+            [
+              20,
+              160,
+              160
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.31,
+          "scale": 1.5,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Visor",
+          "enabled": true,
+          "effect": "Visor",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              155,
+              240,
+              225
+            ]
+          ],
+          "opacity": 0.65,
+          "speed": 0.28,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Wave",
+          "enabled": true,
+          "effect": "Wave",
+          "blend": "Multiply",
+          "keys": [],
+          "colors": [
+            [
+              48,
+              48,
+              48
+            ],
+            [
+              255,
+              255,
+              255
+            ]
+          ],
+          "opacity": 0.65,
+          "speed": 0.13,
+          "scale": 2.2,
+          "angle": 65,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "neon-scan",
+    "name": "Неоновый след",
+    "family": "motion",
+    "description": "Бирюзовый и розовый лучи расходятся по разным зонам.",
+    "scene": {
+      "schema": 1,
+      "name": "Неоновый след",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Visor",
+          "enabled": true,
+          "effect": "Visor",
+          "blend": "Add",
+          "keys": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            87
+          ],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              25,
+              220,
+              230
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.43,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Visor",
+          "enabled": true,
+          "effect": "Visor",
+          "blend": "Add",
+          "keys": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            88,
+            89,
+            90,
+            91,
+            92,
+            104,
+            105,
+            106,
+            107,
+            108
+          ],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              235,
+              50,
+              140
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.29,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0.5
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              45,
+              70,
+              120
+            ]
+          ],
+          "opacity": 0.5,
+          "speed": 0.18,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "prism-edge",
+    "name": "Призма",
+    "family": "motion",
+    "description": "Перекрёстные цветовые волны и выделенный контур клавиатуры.",
+    "scene": {
+      "schema": 1,
+      "name": "Призма",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "TwinWave",
+          "enabled": true,
+          "effect": "TwinWave",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              15,
+              50,
+              100
+            ],
+            [
+              100,
+              30,
+              140
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.35,
+          "scale": 1.2,
+          "angle": 35,
+          "phase": 0
+        },
+        {
+          "name": "Wave",
+          "enabled": true,
+          "effect": "Wave",
+          "blend": "Add",
+          "keys": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            16,
+            32,
+            48,
+            64,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            87,
+            88,
+            89,
+            91,
+            104,
+            105,
+            106,
+            107,
+            108
+          ],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              70,
+              190,
+              160
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.27,
+          "scale": 1.5,
+          "angle": 140,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "echo",
+    "name": "Эхо",
+    "family": "reactive",
+    "description": "Нажатия загораются на фоне едва заметных холодных огоньков.",
+    "scene": {
+      "schema": 1,
+      "name": "Эхо",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              1,
+              5
+            ],
+            [
+              20,
+              55,
+              85
+            ]
+          ],
+          "opacity": 0.55,
+          "speed": 0.2,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Reactive",
+          "enabled": true,
+          "effect": "Reactive",
+          "blend": "Add",
+          "keys": [
+            0,
+            1,
+            3,
+            5,
+            7,
+            8,
+            10,
+            12,
+            17,
+            19,
+            21,
+            22,
+            24,
+            26,
+            28,
+            33,
+            35,
+            36,
+            38,
+            40,
+            42,
+            43,
+            49,
+            50,
+            52,
+            54,
+            56,
+            57,
+            59,
+            64,
+            66,
+            68,
+            70,
+            71,
+            73,
+            75,
+            80,
+            82,
+            84,
+            85,
+            87,
+            89,
+            91,
+            92,
+            105,
+            106,
+            108
+          ],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              45,
+              220,
+              165
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.5,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Reactive",
+          "enabled": true,
+          "effect": "Reactive",
+          "blend": "Add",
+          "keys": [
+            2,
+            4,
+            6,
+            9,
+            11,
+            16,
+            18,
+            20,
+            23,
+            25,
+            27,
+            32,
+            34,
+            37,
+            39,
+            41,
+            44,
+            48,
+            51,
+            53,
+            55,
+            58,
+            60,
+            65,
+            67,
+            69,
+            72,
+            74,
+            76,
+            81,
+            83,
+            88,
+            90,
+            104,
+            107
+          ],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              155,
+              100,
+              255
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.5,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "sonar",
+    "name": "Сонар",
+    "family": "reactive",
+    "description": "Круг от нажатой клавиши расходится по тёмной воде.",
+    "scene": {
+      "schema": 1,
+      "name": "Сонар",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Nebula",
+          "enabled": true,
+          "effect": "Nebula",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              5,
+              12
+            ],
+            [
+              0,
+              25,
+              35
+            ]
+          ],
+          "opacity": 0.6,
+          "speed": 0.1,
+          "scale": 1.2,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Ripple",
+          "enabled": true,
+          "effect": "Ripple",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              25,
+              220,
+              175
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.4,
+          "scale": 1.15,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Reactive",
+          "enabled": true,
+          "effect": "Reactive",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              150,
+              235,
+              215
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.3,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "ember-keys",
+    "name": "Искры касания",
+    "family": "reactive",
+    "description": "Тёплый след на каждой нажатой клавише и живой фон.",
+    "scene": {
+      "schema": 1,
+      "name": "Искры касания",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              80,
+              20,
+              5
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.18,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Reactive",
+          "enabled": true,
+          "effect": "Reactive",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              255,
+              115,
+              30
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.4,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Ripple",
+          "enabled": true,
+          "effect": "Ripple",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              145,
+              35,
+              12
+            ]
+          ],
+          "opacity": 0.3,
+          "speed": 0.5,
+          "scale": 1.7,
+          "angle": 0,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  },
+  {
+    "id": "city-night",
+    "name": "Ночной город",
+    "family": "motion",
+    "description": "Холодные окна, редкие тёплые огни и горизонтальный свет.",
+    "scene": {
+      "schema": 1,
+      "name": "Ночной город",
+      "duration": 12,
+      "fps": 15,
+      "brightness": 0.92,
+      "layers": [
+        {
+          "name": "Solid",
+          "enabled": true,
+          "effect": "Solid",
+          "blend": "Replace",
+          "keys": [],
+          "colors": [
+            [
+              3,
+              6,
+              14
+            ],
+            [
+              3,
+              6,
+              14
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [],
+          "colors": [
+            [
+              0,
+              0,
+              5
+            ],
+            [
+              25,
+              70,
+              160
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.26,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0
+        },
+        {
+          "name": "Fireflies",
+          "enabled": true,
+          "effect": "Fireflies",
+          "blend": "Add",
+          "keys": [
+            0,
+            3,
+            6,
+            11,
+            17,
+            22,
+            25,
+            28,
+            33,
+            36,
+            39,
+            44,
+            50,
+            55,
+            58,
+            66,
+            69,
+            72,
+            80,
+            83,
+            88,
+            91,
+            105
+          ],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              220,
+              120,
+              45
+            ]
+          ],
+          "opacity": 1,
+          "speed": 0.2,
+          "scale": 1,
+          "angle": 0,
+          "phase": 0.4
+        },
+        {
+          "name": "Comet",
+          "enabled": true,
+          "effect": "Comet",
+          "blend": "Add",
+          "keys": [
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            87,
+            88,
+            89,
+            90,
+            91,
+            107,
+            108
+          ],
+          "colors": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              50,
+              130,
+              190
+            ]
+          ],
+          "opacity": 0.6,
+          "speed": 0.28,
+          "scale": 1.2,
+          "angle": 0,
+          "phase": 0
+        }
+      ],
+      "dock_layers": []
+    }
+  }
+]

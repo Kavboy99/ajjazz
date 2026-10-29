@@ -1,0 +1,96 @@
+{
+  "schema": 1,
+  "updater_sha256": "edd4914bdd93bc3d557173e554efd40e7b531f5d6275b5bc8c8c6f7f4aa570d4",
+  "passed": true,
+  "constructors": [
+    {
+      "name": "version",
+      "entry": "0040B6A0",
+      "payload": "01aa5500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "status_al": 5,
+      "windows_report": "0001aa5500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "matches_reimplementation": true
+    },
+    {
+      "name": "compare",
+      "entry": "0040BAC0",
+      "payload": "02aa5500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "status_al": 5,
+      "windows_report": "0002aa5500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "matches_reimplementation": true
+    },
+    {
+      "name": "option",
+      "entry": "0040B9D0",
+      "payload": "03aa5500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "status_al": 5,
+      "windows_report": "0003aa5500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "matches_reimplementation": true
+    },
+    {
+      "name": "erase",
+      "entry": "0040BB20",
+      "payload": "04aa550000000000f801000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "status_al": 5,
+      "windows_report": "0004aa550000000000f801000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "matches_reimplementation": true
+    },
+    {
+      "name": "program",
+      "entry": "0040BDF0",
+      "payload": "05aa550000000000801f000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "status_al": 5,
+      "windows_report": "0005aa550000000000801f000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "matches_reimplementation": true
+    },
+    {
+      "name": "checksum",
+      "entry": "0040BEA0",
+      "payload": "06aa550000000000",
+      "status_al": 0,
+      "windows_report": "0006aa5500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "matches_reimplementation": true
+    },
+    {
+      "name": "return",
+      "entry": "0040C140",
+      "payload": "07aa550000000000",
+      "status_al": 0,
+      "windows_report": "0007aa5500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "matches_reimplementation": true
+    }
+  ],
+  "error_injections": [
+    {
+      "injection": "send_failed",
+      "status_al": 0
+    },
+    {
+      "injection": "get_failed",
+      "status_al": 1
+    },
+    {
+      "injection": "bad_header",
+      "status_al": 2
+    },
+    {
+      "injection": "bad_ack",
+      "status_al": 4
+    },
+    {
+      "injection": "ok",
+      "status_al": 5
+    }
+  ],
+  "transcript": {
+    "state": "complete",
+    "data_blocks": 8064,
+    "image_bytes": 516096,
+    "word_checksum": "67E7",
+    "hardware_tested": false
+  },
+  "execution": "Original x86 under Unicorn; USB and delays replaced by hooks",
+  "hardware_access": false,
+  "vendor_process_started": false,
+  "scope": "Packet constructors; not a bootloader/hardware simulation"
+}

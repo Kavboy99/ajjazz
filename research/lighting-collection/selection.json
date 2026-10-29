@@ -1,0 +1,434 @@
+{
+  "date": "2026-10-25",
+  "candidates": 30,
+  "selected_count": 18,
+  "reference": "fireflies",
+  "editorial_basis": "Субъективная оценка под предпочтение пользователя: тёмное поле, живое движение, выразительная композиция, отличие от других выбранных режимов. Метрики служат проверкой, а не оценкой вкуса.",
+  "sources": [
+    "https://mysupport.razer.com/app/answers/detail/a_id/13713",
+    "https://www.corsair.com/us/en/explorer/gamer/keyboards/k70-core/",
+    "https://www.logitechg.com/en-ca/software/guides/lightsync-rgb"
+  ],
+  "rows": [
+    {
+      "id": "fireflies",
+      "name": "Светлячки",
+      "selected": false,
+      "editorial_score": 9.2,
+      "reason": "Исходный ориентир: уже доступен в приложении.",
+      "metrics": {
+        "id": "fireflies",
+        "lit_fraction": 0.2252710027100271,
+        "mean_level": 0.1350063979625702,
+        "abrupt_fraction": 0.0,
+        "movement": 0.06147362291812897
+      }
+    },
+    {
+      "id": "living-forest",
+      "name": "Живой лес",
+      "selected": true,
+      "editorial_score": 9.5,
+      "reason": "Редкие огоньки, два ритма и движущаяся тень. Самый близкий к любимому рисунку вариант.",
+      "metrics": {
+        "id": "living-forest",
+        "lit_fraction": 0.13794037940379403,
+        "mean_level": 0.07366013526916504,
+        "abrupt_fraction": 0.0,
+        "movement": 0.027056634426116943
+      }
+    },
+    {
+      "id": "biolume",
+      "name": "Люмина",
+      "selected": true,
+      "editorial_score": 9.4,
+      "reason": "Хороший контраст бирюзовых огоньков и тёмного поля; пространственная волна добавляет глубину.",
+      "metrics": {
+        "id": "biolume",
+        "lit_fraction": 0.153319783197832,
+        "mean_level": 0.08634412288665771,
+        "abrupt_fraction": 0.0,
+        "movement": 0.031076520681381226
+      }
+    },
+    {
+      "id": "pollen",
+      "name": "Пыльца",
+      "selected": true,
+      "editorial_score": 9.1,
+      "reason": "Тёплые частицы с разной длительностью, без резких общих вспышек.",
+      "metrics": {
+        "id": "pollen",
+        "lit_fraction": 0.16483739837398373,
+        "mean_level": 0.0882047489285469,
+        "abrupt_fraction": 6.812917291184085e-05,
+        "movement": 0.03434405103325844
+      }
+    },
+    {
+      "id": "night-garden",
+      "name": "Ночной сад",
+      "selected": true,
+      "editorial_score": 8.9,
+      "reason": "Раздельные группы зелёных и лиловых огней дают аккуратный двухцветный рисунок.",
+      "metrics": {
+        "id": "night-garden",
+        "lit_fraction": 0.21578590785907859,
+        "mean_level": 0.120407834649086,
+        "abrupt_fraction": 0.0,
+        "movement": 0.03198971971869469
+      }
+    },
+    {
+      "id": "constellation",
+      "name": "Созвездия",
+      "selected": true,
+      "editorial_score": 9.3,
+      "reason": "Редкие холодные звёзды и сдержанный фон хорошо читаются на клавиатуре.",
+      "metrics": {
+        "id": "constellation",
+        "lit_fraction": 0.22615176151761518,
+        "mean_level": 0.20282667875289917,
+        "abrupt_fraction": 0.0,
+        "movement": 0.02621530368924141
+      }
+    },
+    {
+      "id": "starwind",
+      "name": "Звёздный ветер",
+      "selected": true,
+      "editorial_score": 8.8,
+      "reason": "Огоньки дополнены движущимися следами; плотнее исходных Светлячков, но рисунок остаётся разборчивым.",
+      "metrics": {
+        "id": "starwind",
+        "lit_fraction": 0.2886178861788618,
+        "mean_level": 0.16949784755706787,
+        "abrupt_fraction": 0.006608529772448563,
+        "movement": 0.041360821574926376
+      }
+    },
+    {
+      "id": "nebula-drift",
+      "name": "Тихий космос",
+      "selected": false,
+      "editorial_score": 7.2,
+      "reason": "Слишком много постоянной заливки, на малом числе клавиш движение выражено слабее.",
+      "metrics": {
+        "id": "nebula-drift",
+        "lit_fraction": 0.890650406504065,
+        "mean_level": 0.3275620639324188,
+        "abrupt_fraction": 0.0,
+        "movement": 0.011546425521373749
+      }
+    },
+    {
+      "id": "meteor-shower",
+      "name": "Метеоры",
+      "selected": true,
+      "editorial_score": 9.0,
+      "reason": "Три разнонаправленных потока хорошо различаются; энергичный вариант для разнообразия.",
+      "metrics": {
+        "id": "meteor-shower",
+        "lit_fraction": 0.25630081300813007,
+        "mean_level": 0.15594825148582458,
+        "abrupt_fraction": 0.0461915792342281,
+        "movement": 0.07840706408023834
+      }
+    },
+    {
+      "id": "comet-trail",
+      "name": "Орбитальный след",
+      "selected": true,
+      "editorial_score": 8.7,
+      "reason": "Отчётливые встречные хвосты и достаточно тёмного пространства.",
+      "metrics": {
+        "id": "comet-trail",
+        "lit_fraction": 0.32838753387533876,
+        "mean_level": 0.181920126080513,
+        "abrupt_fraction": 0.03665349502657038,
+        "movement": 0.05661908537149429
+      }
+    },
+    {
+      "id": "moon-pool",
+      "name": "Лунная рябь",
+      "selected": true,
+      "editorial_score": 8.5,
+      "reason": "Очень редкие холодные блики. Оставлен как самый тихий вариант с движущимися кругами.",
+      "metrics": {
+        "id": "moon-pool",
+        "lit_fraction": 0.057926829268292686,
+        "mean_level": 0.0376170389354229,
+        "abrupt_fraction": 0.006336013080801199,
+        "movement": 0.03288127854466438
+      }
+    },
+    {
+      "id": "deep-tide",
+      "name": "Прилив",
+      "selected": false,
+      "editorial_score": 7.4,
+      "reason": "Почти непрерывное синее поле; контраст и характер уступают Шёлку.",
+      "metrics": {
+        "id": "deep-tide",
+        "lit_fraction": 0.9615853658536585,
+        "mean_level": 0.4180331230163574,
+        "abrupt_fraction": 0.0,
+        "movement": 0.011593715287744999
+      }
+    },
+    {
+      "id": "ocean-floor",
+      "name": "Глубина",
+      "selected": false,
+      "editorial_score": 7.7,
+      "reason": "Приятная фактура, но похожее настроение уже лучше передаёт Люмина.",
+      "metrics": {
+        "id": "ocean-floor",
+        "lit_fraction": 0.44871273712737125,
+        "mean_level": 0.2366834580898285,
+        "abrupt_fraction": 0.0,
+        "movement": 0.02120847813785076
+      }
+    },
+    {
+      "id": "rain-window",
+      "name": "Дождь за окном",
+      "selected": false,
+      "editorial_score": 7.5,
+      "reason": "Отдельные капли читаются, но рисунок менее выразителен, чем Неоновый дождь.",
+      "metrics": {
+        "id": "rain-window",
+        "lit_fraction": 0.1668021680216802,
+        "mean_level": 0.0875118300318718,
+        "abrupt_fraction": 0.015669709769723397,
+        "movement": 0.030791981145739555
+      }
+    },
+    {
+      "id": "neon-rain",
+      "name": "Неоновый дождь",
+      "selected": true,
+      "editorial_score": 8.7,
+      "reason": "Разделённые цветовые потоки заметно отличаются от огоньков и комет.",
+      "metrics": {
+        "id": "neon-rain",
+        "lit_fraction": 0.15657181571815718,
+        "mean_level": 0.17698152363300323,
+        "abrupt_fraction": 0.031475677885270475,
+        "movement": 0.048428889364004135
+      }
+    },
+    {
+      "id": "silk",
+      "name": "Шёлк",
+      "selected": true,
+      "editorial_score": 8.4,
+      "reason": "Широкие пересекающиеся полотна сохраняют контраст даже при почти полной засветке.",
+      "metrics": {
+        "id": "silk",
+        "lit_fraction": 0.9815040650406504,
+        "mean_level": 0.44291621446609497,
+        "abrupt_fraction": 0.0,
+        "movement": 0.013067442923784256
+      }
+    },
+    {
+      "id": "watercolor",
+      "name": "Акварель",
+      "selected": false,
+      "editorial_score": 7.0,
+      "reason": "Смешивание выравнивает яркость: получается красивый цвет, но слабый пространственный рисунок.",
+      "metrics": {
+        "id": "watercolor",
+        "lit_fraction": 1.0,
+        "mean_level": 0.6648083925247192,
+        "abrupt_fraction": 0.0,
+        "movement": 0.009468886069953442
+      }
+    },
+    {
+      "id": "northern-lights",
+      "name": "Северный свет",
+      "selected": true,
+      "editorial_score": 8.3,
+      "reason": "Оставлен один вариант мягких широких занавесов вместо нескольких похожих заливок.",
+      "metrics": {
+        "id": "northern-lights",
+        "lit_fraction": 0.9676829268292683,
+        "mean_level": 0.3627278506755829,
+        "abrupt_fraction": 0.0,
+        "movement": 0.011073795147240162
+      }
+    },
+    {
+      "id": "cherry-smoke",
+      "name": "Вишнёвый дым",
+      "selected": true,
+      "editorial_score": 8.3,
+      "reason": "Сдержанные облака с локальными тенями; тёплый атмосферный вариант.",
+      "metrics": {
+        "id": "cherry-smoke",
+        "lit_fraction": 0.40264227642276423,
+        "mean_level": 0.2167533040046692,
+        "abrupt_fraction": 0.0,
+        "movement": 0.009739265777170658
+      }
+    },
+    {
+      "id": "copper-embers",
+      "name": "Медные угли",
+      "selected": true,
+      "editorial_score": 9.2,
+      "reason": "Живые тёплые угольки с редкими золотыми акцентами; узнаваемый самостоятельный характер.",
+      "metrics": {
+        "id": "copper-embers",
+        "lit_fraction": 0.21348238482384824,
+        "mean_level": 0.1150074452161789,
+        "abrupt_fraction": 0.0,
+        "movement": 0.02843952178955078
+      }
+    },
+    {
+      "id": "lava-flow",
+      "name": "Лавовый поток",
+      "selected": false,
+      "editorial_score": 7.1,
+      "reason": "На дискретной раскладке тёмная корка выглядит слишком блочной.",
+      "metrics": {
+        "id": "lava-flow",
+        "lit_fraction": 0.477710027100271,
+        "mean_level": 0.25017961859703064,
+        "abrupt_fraction": 0.0,
+        "movement": 0.013535797595977783
+      }
+    },
+    {
+      "id": "sunset",
+      "name": "Закат",
+      "selected": false,
+      "editorial_score": 7.0,
+      "reason": "Доминирует неподвижный градиент, движение не делает композицию заметно интереснее.",
+      "metrics": {
+        "id": "sunset",
+        "lit_fraction": 0.8678184281842819,
+        "mean_level": 0.33984220027923584,
+        "abrupt_fraction": 0.0,
+        "movement": 0.006940893363207579
+      }
+    },
+    {
+      "id": "dawn",
+      "name": "Рассвет",
+      "selected": false,
+      "editorial_score": 6.9,
+      "reason": "Палитра приятная, но почти сплошная подсветка теряет детали.",
+      "metrics": {
+        "id": "dawn",
+        "lit_fraction": 1.0,
+        "mean_level": 0.447995126247406,
+        "abrupt_fraction": 0.0,
+        "movement": 0.006305822636932135
+      }
+    },
+    {
+      "id": "magnetic",
+      "name": "Магнитное поле",
+      "selected": true,
+      "editorial_score": 8.2,
+      "reason": "Орбитальные полосы и луч дают отдельный геометрический характер.",
+      "metrics": {
+        "id": "magnetic",
+        "lit_fraction": 0.7174119241192412,
+        "mean_level": 0.3266531527042389,
+        "abrupt_fraction": 0.0,
+        "movement": 0.04716462269425392
+      }
+    },
+    {
+      "id": "neon-scan",
+      "name": "Неоновый след",
+      "selected": false,
+      "editorial_score": 7.4,
+      "reason": "Узкий сканер выглядит однообразнее встречных кометных хвостов.",
+      "metrics": {
+        "id": "neon-scan",
+        "lit_fraction": 0.22134146341463415,
+        "mean_level": 0.14386896789073944,
+        "abrupt_fraction": 0.03481400735795068,
+        "movement": 0.07663943618535995
+      }
+    },
+    {
+      "id": "prism-edge",
+      "name": "Призма",
+      "selected": false,
+      "editorial_score": 7.1,
+      "reason": "Много ярких областей сразу; фокус композиции теряется.",
+      "metrics": {
+        "id": "prism-edge",
+        "lit_fraction": 1.0,
+        "mean_level": 0.5846327543258667,
+        "abrupt_fraction": 0.0,
+        "movement": 0.018743539229035378
+      }
+    },
+    {
+      "id": "echo",
+      "name": "Эхо",
+      "selected": true,
+      "editorial_score": 8.7,
+      "reason": "Минимальный реактивный рисунок: внимание на нажатиях, фон едва заметен.",
+      "metrics": {
+        "id": "echo",
+        "lit_fraction": 0.011924119241192412,
+        "mean_level": 0.03843482956290245,
+        "abrupt_fraction": 0.001294454285324976,
+        "movement": 0.010320101864635944
+      }
+    },
+    {
+      "id": "sonar",
+      "name": "Сонар",
+      "selected": true,
+      "editorial_score": 8.8,
+      "reason": "Хорошо читаемая реакция вокруг нажатой клавиши, самостоятельное интерактивное поведение.",
+      "metrics": {
+        "id": "sonar",
+        "lit_fraction": 0.08624661246612467,
+        "mean_level": 0.09964185953140259,
+        "abrupt_fraction": 0.06683471862651587,
+        "movement": 0.05324575677514076
+      }
+    },
+    {
+      "id": "ember-keys",
+      "name": "Искры касания",
+      "selected": false,
+      "editorial_score": 7.8,
+      "reason": "Работает аккуратно, но роль реактивного режима уже лучше закрывают Эхо и Сонар.",
+      "metrics": {
+        "id": "ember-keys",
+        "lit_fraction": 0.06456639566395664,
+        "mean_level": 0.04727350175380707,
+        "abrupt_fraction": 0.001294454285324976,
+        "movement": 0.01952582411468029
+      }
+    },
+    {
+      "id": "city-night",
+      "name": "Ночной город",
+      "selected": true,
+      "editorial_score": 8.8,
+      "reason": "Холодные окна, редкие тёплые огни и нижний движущийся след образуют многоплановую сцену.",
+      "metrics": {
+        "id": "city-night",
+        "lit_fraction": 0.2785907859078591,
+        "mean_level": 0.14947952330112457,
+        "abrupt_fraction": 0.007289821501566971,
+        "movement": 0.03627651557326317
+      }
+    }
+  ]
+}

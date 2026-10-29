@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "name": "Орбитальный след",
+  "duration": 12,
+  "fps": 15,
+  "brightness": 0.92,
+  "layers": [
+    {
+      "name": "Solid",
+      "enabled": true,
+      "effect": "Solid",
+      "blend": "Replace",
+      "keys": [],
+      "colors": [
+        [
+          3,
+          6,
+          14
+        ],
+        [
+          3,
+          6,
+          14
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0,
+      "scale": 1,
+      "angle": 0,
+      "phase": 0
+    },
+    {
+      "name": "Comet",
+      "enabled": true,
+      "effect": "Comet",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          25,
+          220,
+          180
+        ]
+      ],
+      "opacity": 1,
+      "speed": 0.33,
+      "scale": 1.1,
+      "angle": 35,
+      "phase": 0
+    },
+    {
+      "name": "Comet",
+      "enabled": true,
+      "effect": "Comet",
+      "blend": "Add",
+      "keys": [],
+      "colors": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          200,
+          115,
+          255
+        ]
+      ],
+      "opacity": 0.6,
+      "speed": 0.24,
+      "scale": 0.8,
+      "angle": 215,
+      "phase": 0.6
+    }
+  ],
+  "dock_layers": []
+}
